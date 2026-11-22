@@ -108,3 +108,4 @@
 {"seq": 107, "ts": "2026-11-21T13:47:09+0000", "from": "chat-cli", "kind": "release", "topic": "runtime/loop.py", "body": "chat-cli done (832c810)"}
 {"seq": 108, "ts": "2026-11-21T13:47:09+0000", "from": "chat-cli", "kind": "release", "topic": "runtime/rosemary_full.py", "body": "chat-cli done (832c810)"}
 {"seq": 109, "ts": "2026-11-21T13:47:09+0000", "from": "chat-cli", "kind": "release", "topic": "cognition/lqt_bridge.py", "body": "chat-cli done (832c810)"}
+{"seq": 110, "ts": "2026-11-21T20:09:23-0600", "from": "push-lfs", "kind": "claim", "topic": ".gitattributes", "body": "Push-only repair: correct LFS rule, migrate refs/heads/main model blobs, preserve recovery bundle, upload and verify origin/main. No production source edits."}
