@@ -1,0 +1,17 @@
+﻿# Hash Manifest v1.0
+# Algorithm: SHA256
+# Generated: 2025-12-18T14:22:16.7943935Z
+# Git Commit: N/A
+# Git Tag: N/A
+# Release Version: v1.0.0
+# Release Title: RCF-Final Release 12-18-2025
+# Tool: hash-index.ps1
+#
+7fe241a345ebbff8f587f8914dda8635bbe031fe216f472117cace7a8e23c1f8  hash-index.ps1
+233ea7980f0945fd5ee0389befca91da50a3d0b1e719407512ebc590bf61ea1b  publickey.asc
+618d5c1a7d410b59e22851796a9ca55ea19f27898b6f2f73dd52901b9003d588  rcf_publish.md
+31140915d0122cc99ad2dd3150bf9a146f475a2855ddad7e3220d78d060cddbf  rcf_publish.pdf
+59e481f0eea728300dba9f4fe22cf8f33ba8fb6949d56de17a95f272fd70d30b  rcf_publish.tex
+3b78ecd111b11dc14067999e5b5e164423b8c3e4e9944993265116548dc2ce66  rcf-final.zip
+e0d2237fa9be18c8531f89ac20b8b7713ef30149efe92bb04039a330df60e1c6  treyrowell_pubkey.asc
+

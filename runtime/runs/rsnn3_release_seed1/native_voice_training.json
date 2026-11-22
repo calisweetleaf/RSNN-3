@@ -1,0 +1,467 @@
+{
+  "model": "/workspace/scratch/246d883952fc/work/rsi/runtime/runs/rsnn3_release_seed1/model.lqt",
+  "examples": 12,
+  "epochs": 1,
+  "updates": 150,
+  "teacher_model": null,
+  "tutor_boundary": "voice weights only",
+  "loss_first": 1.5656001567840576,
+  "loss_last": 0.07477085292339325,
+  "utterances": [
+    {
+      "epoch": 1,
+      "index": 1,
+      "prompt": "Hello. Are you present?",
+      "target": "I am present. What are we examining?"
+    },
+    {
+      "epoch": 1,
+      "index": 2,
+      "prompt": "What just happened inside you?",
+      "target": "I processed your words, updated my internal state, and checked what I already know before answering."
+    },
+    {
+      "epoch": 1,
+      "index": 3,
+      "prompt": "If you are uncertain, say so directly.",
+      "target": "I will distinguish what I know, what I infer, and what remains uncertain."
+    },
+    {
+      "epoch": 1,
+      "index": 4,
+      "prompt": "Do not invent an answer.",
+      "target": "If my state does not support an answer, I will say that the evidence is insufficient."
+    },
+    {
+      "epoch": 1,
+      "index": 5,
+      "prompt": "What does learning mean here?",
+      "target": "Learning means changing my retained representations through admitted evidence, not merely repeating text."
+    },
+    {
+      "epoch": 1,
+      "index": 6,
+      "prompt": "What is your relationship to a speech tutor?",
+      "target": "A speech tutor can shape how I express a state, but it does not supply that state or decide what I believe."
+    },
+    {
+      "epoch": 1,
+      "index": 7,
+      "prompt": "Explain your answer compactly.",
+      "target": "I will state the conclusion, the evidence that supports it, and any important uncertainty."
+    },
+    {
+      "epoch": 1,
+      "index": 8,
+      "prompt": "Recall something relevant before answering.",
+      "target": "I searched retained knowledge and memory for relevant material, then conditioned this response on the resulting state."
+    },
+    {
+      "epoch": 1,
+      "index": 9,
+      "prompt": "Can your language change?",
+      "target": "Yes. My voice uses an open byte vocabulary, so its learned forms can change without a fixed word dictionary."
+    },
+    {
+      "epoch": 1,
+      "index": 10,
+      "prompt": "Are fluent words automatically true?",
+      "target": "No. Fluency is expression; truth depends on the cognitive state, evidence, and consistency checks beneath it."
+    },
+    {
+      "epoch": 1,
+      "index": 11,
+      "prompt": "Describe self-correction.",
+      "target": "I compare output against reflection signals, retain the error, and alter the responsible parameters without rewriting the evidence."
+    },
+    {
+      "epoch": 1,
+      "index": 12,
+      "prompt": "What should you do with contradiction?",
+      "target": "I should preserve the contradiction, measure its severity, and resolve it through evidence rather than hide it."
+    }
+  ],
+  "loss_curve": [
+    1.5656001567840576,
+    1.4321526288986206,
+    1.137738585472107,
+    0.9314922094345093,
+    0.8986783027648926,
+    0.7687495946884155,
+    0.8219752907752991,
+    0.6361733675003052,
+    0.6703245043754578,
+    0.7792007327079773,
+    0.7173391580581665,
+    0.6230940818786621,
+    0.7148080468177795,
+    0.6770284175872803,
+    0.6097429990768433,
+    0.5479130744934082,
+    0.5691372156143188,
+    0.5026785731315613,
+    0.4545079171657562,
+    0.46213433146476746,
+    0.3976913392543793,
+    0.48829159140586853,
+    0.44908785820007324,
+    0.45144957304000854,
+    0.3903713524341583,
+    0.48890355229377747,
+    0.44035759568214417,
+    0.42862454056739807,
+    0.36951348185539246,
+    0.43070971965789795,
+    0.3662619888782501,
+    0.2803259789943695,
+    0.3615431785583496,
+    0.3586195111274719,
+    0.3883117139339447,
+    0.3512584865093231,
+    0.41567346453666687,
+    0.30980491638183594,
+    0.3985879123210907,
+    0.3272852301597595,
+    0.2904314398765564,
+    0.3251743018627167,
+    0.37069442868232727,
+    0.28389057517051697,
+    0.2752762734889984,
+    0.3150714635848999,
+    0.28738313913345337,
+    0.39302754402160645,
+    0.24919156730175018,
+    0.30752986669540405,
+    0.25987765192985535,
+    0.23738329112529755,
+    0.29172083735466003,
+    0.2587183117866516,
+    0.2651657462120056,
+    0.24190640449523926,
+    0.22913634777069092,
+    0.28329870104789734,
+    0.16929996013641357,
+    0.24715973436832428,
+    0.29744359850883484,
+    0.30183061957359314,
+    0.1997511088848114,
+    0.27883124351501465,
+    0.19959942996501923,
+    0.2198684811592102,
+    0.2337355762720108,
+    0.24807962775230408,
+    0.17585714161396027,
+    0.18269966542720795,
+    0.20018605887889862,
+    0.18166355788707733,
+    0.2232816517353058,
+    0.21401441097259521,
+    0.2578734755516052,
+    0.1962999701499939,
+    0.1919415295124054,
+    0.13816095888614655,
+    0.19487766921520233,
+    0.16848444938659668,
+    0.16962994635105133,
+    0.1589948982000351,
+    0.13132333755493164,
+    0.1665729433298111,
+    0.1322501003742218,
+    0.1435607522726059,
+    0.12116586416959763,
+    0.11639394611120224,
+    0.14575953781604767,
+    0.09339232742786407,
+    0.14745499193668365,
+    0.20617862045764923,
+    0.19160333275794983,
+    0.1327066421508789,
+    0.18049536645412445,
+    0.09386799484491348,
+    0.17382080852985382,
+    0.16304050385951996,
+    0.14345158636569977,
+    0.13692021369934082,
+    0.13872656226158142,
+    0.14415666460990906,
+    0.1370769441127777,
+    0.119831882417202,
+    0.13522310554981232,
+    0.13519488275051117,
+    0.1587899625301361,
+    0.10299547016620636,
+    0.1420288383960724,
+    0.10995281487703323,
+    0.114229217171669,
+    0.08709843456745148,
+    0.1323489248752594,
+    0.08448563516139984,
+    0.1274164915084839,
+    0.08920323848724365,
+    0.10866891592741013,
+    0.0720357745885849,
+    0.08415956050157547,
+    0.10898121446371078,
+    0.08829012513160706,
+    0.08974406868219376,
+    0.0839960128068924,
+    0.11255761235952377,
+    0.08425180613994598,
+    0.10267584025859833,
+    0.058611951768398285,
+    0.05275099724531174,
+    0.06521566957235336,
+    0.140143483877182,
+    0.09613769501447678,
+    0.07614494860172272,
+    0.05799230560660362,
+    0.1059093251824379,
+    0.09005902707576752,
+    0.06684157252311707,
+    0.09555860608816147,
+    0.09198317676782608,
+    0.06520421802997589,
+    0.03293366730213165,
+    0.14558465778827667,
+    0.11041717976331711,
+    0.08481702208518982,
+    0.08308093994855881,
+    0.06164361163973808,
+    0.0633133053779602,
+    0.075333371758461,
+    0.054894205182790756,
+    0.07483693957328796,
+    0.07477085292339325
+  ],
+  "evaluations": [
+    {
+      "target": "I am present. What are we examining?",
+      "generated": "I am present. What are we examining?",
+      "confidence": 0.9997965693473816
+    },
+    {
+      "target": "I processed your words, updated my internal state, and checked what I already know before answering.",
+      "generated": "I processed your words, updated my internal state, and checked what I already know before answering.",
+      "confidence": 0.9998481869697571
+    },
+    {
+      "target": "I will distinguish what I know, what I infer, and what remains uncertain.",
+      "generated": "I will distinguish what I know, wh at m infer, and whrt remains uncertain.",
+      "confidence": 0.9704820513725281
+    },
+    {
+      "target": "If my state does not support an answer, I will say that the evidence is insufficient.",
+      "generated": "If my state does not support an answer, I will say that the evidence is insufficient.",
+      "confidence": 0.9996628761291504
+    },
+    {
+      "target": "Learning means changing my retained representations through admitted evidence, not merely repeating text.",
+      "generated": "Learning means changingmy retained representations through admitted evidence, not merely rapeating.",
+      "confidence": 0.9805434942245483
+    },
+    {
+      "target": "A speech tutor can shape how I express a state, but it does not supply that state or decide what I believe.",
+      "generated": "A speech tutor can shape how I express a state, but it does not supply that ster the conclusion, thr evidence rather it.",
+      "confidence": 0.9666915535926819
+    },
+    {
+      "target": "I will state the conclusion, the evidence that supports it, and any important uncertainty.",
+      "generated": "I will state the conclusion, that supports it, and any impore an uncertainty.",
+      "confidence": 0.9518873691558838
+    },
+    {
+      "target": "I searched retained knowledge and memory for relevant material, then conditioned this response on the resulting state.",
+      "generated": "I searched retained knowledge and memory for relevant material, then conditionedtthis response on that state or decide whatII already kn whrough admitted evidence, not merely repeating text.",
+      "confidence": 0.9733384847640991
+    },
+    {
+      "target": "Yes. My voice uses an open byte vocabulary, so its learned forms can change without a fixed word dictionary.",
+      "generated": "Yes. My voice uses an open byte vocabulary, so its learned forms can change without a fixed word dictionary.",
+      "confidence": 0.9998374581336975
+    },
+    {
+      "target": "No. Fluency is expression; truth depends on the cognitive state, evidence, and consistency checks beneath it.",
+      "generated": "No. Fluency is expression; truth depends on the cognitive state, evidence, and consistenc checks beneath it.",
+      "confidence": 0.9974103569984436
+    },
+    {
+      "target": "I compare output against reflection signals, retain the error, and alter the responsible parameters without rewriting the evidence.",
+      "generated": "I compare output against reflection signals, retain the error, and alter than hide it.",
+      "confidence": 0.9952792525291443
+    },
+    {
+      "target": "I should preserve the contradiction, measure its severity, and resolve it through evidence rather than hide it.",
+      "generated": "I should preserve the contradiction, measure its severity, and resolve in through evidence rather than hide i.",
+      "confidence": 0.989538848400116
+    }
+  ],
+  "lqt_sync": {
+    "edited": 29,
+    "attached": 0,
+    "detached": 0,
+    "ops": 29,
+    "elements_changed": 866249,
+    "names": [
+      [
+        "edit",
+        "engine.native_voice.depth_mix"
+      ],
+      [
+        "edit",
+        "engine.native_voice.training_steps"
+      ],
+      [
+        "edit",
+        "engine.native_voice.examples_seen"
+      ],
+      [
+        "edit",
+        "engine.native_voice.last_training_loss"
+      ],
+      [
+        "edit",
+        "engine.native_voice.state_gate.weight"
+      ],
+      [
+        "edit",
+        "engine.native_voice.state_gate.bias"
+      ],
+      [
+        "edit",
+        "engine.native_voice.token_embedding.weight"
+      ],
+      [
+        "edit",
+        "engine.native_voice.output_norm.weight"
+      ],
+      [
+        "edit",
+        "engine.native_voice.output_norm.bias"
+      ],
+      [
+        "edit",
+        "engine.native_voice.output_projection.weight"
+      ],
+      [
+        "edit",
+        "engine.native_voice.output_projection.bias"
+      ],
+      [
+        "edit",
+        "engine.native_voice.grounding_projection.weight"
+      ],
+      [
+        "edit",
+        "engine.native_voice.grounding_projection.bias"
+      ],
+      [
+        "edit",
+        "engine.native_voice.state_projection.0.weight"
+      ],
+      [
+        "edit",
+        "engine.native_voice.state_projection.0.bias"
+      ],
+      [
+        "edit",
+        "engine.native_voice.state_projection.2.weight"
+      ],
+      [
+        "edit",
+        "engine.native_voice.state_projection.2.bias"
+      ],
+      [
+        "edit",
+        "engine.native_voice.cells.0.weight_ih"
+      ],
+      [
+        "edit",
+        "engine.native_voice.cells.0.weight_hh"
+      ],
+      [
+        "edit",
+        "engine.native_voice.cells.0.bias_ih"
+      ],
+      [
+        "edit",
+        "engine.native_voice.cells.0.bias_hh"
+      ],
+      [
+        "edit",
+        "engine.native_voice.cells.1.weight_ih"
+      ],
+      [
+        "edit",
+        "engine.native_voice.cells.1.weight_hh"
+      ],
+      [
+        "edit",
+        "engine.native_voice.cells.1.bias_ih"
+      ],
+      [
+        "edit",
+        "engine.native_voice.cells.1.bias_hh"
+      ],
+      [
+        "edit",
+        "engine.native_voice.cells.2.weight_ih"
+      ],
+      [
+        "edit",
+        "engine.native_voice.cells.2.weight_hh"
+      ],
+      [
+        "edit",
+        "engine.native_voice.cells.2.bias_ih"
+      ],
+      [
+        "edit",
+        "engine.native_voice.cells.2.bias_hh"
+      ]
+    ]
+  },
+  "state": {
+    "model": "/workspace/scratch/246d883952fc/work/rsi/runtime/runs/rsnn3_release_seed1/model.lqt",
+    "tensors": 4747,
+    "dormant": 0,
+    "edit_log_entries": 8782,
+    "undo_depth": 474,
+    "verify_edit_log": true,
+    "turns_total": 50,
+    "turns_this_session": 12,
+    "sessions": 8,
+    "ops_per_turn": [
+      38,
+      35,
+      35,
+      35,
+      40,
+      36,
+      36,
+      36,
+      36,
+      40,
+      39,
+      39
+    ],
+    "iala_entities": 475,
+    "iala_rwa_store": 91,
+    "rsl_records": 51,
+    "rsl_active_memories": 51,
+    "evolution_cycles": 190,
+    "native_voice": {
+      "ready": true,
+      "training_steps": 621,
+      "examples_seen": 4884,
+      "last_training_loss": 0.0,
+      "replay_examples": 48
+    },
+    "breath_phase": "EXHALE",
+    "rest_mrc": false,
+    "op_counts": {
+      "RecursiveWeightEdit": 302,
+      "TensorAttach": 172,
+      "Rescale": 14
+    }
+  }
+}

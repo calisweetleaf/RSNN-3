@@ -1,0 +1,42 @@
+{
+  "system": "RSNN-3",
+  "date": "2026-11-21",
+  "source": "chat/transcript.jsonl",
+  "live_rsei_cycles": 22,
+  "exact_verified_dimension": 12,
+  "competence_dag_size": 12,
+  "strict_expansions": 12,
+  "verified_competences": [
+    "bayesian_update",
+    "breath_coupling",
+    "cognitive_forward",
+    "dream_integration",
+    "ethical_admission",
+    "knowledge_acquisition",
+    "knowledge_recall",
+    "lqt_self_modification",
+    "multi_source_integration",
+    "native_voice_grounding",
+    "persistent_memory",
+    "recursive_weight_application"
+  ],
+  "final_frontier": 0,
+  "motivation_values": 3,
+  "final_motivation_drive": 0.5851685429470648,
+  "peak_motivation_drive": 0.7832202975791502,
+  "bootstrap_bayesian_parameters": 3,
+  "final_bayesian_parameters": 15,
+  "dream_probe_failures_before_pass": 10,
+  "dream_memories_integrated": 3,
+  "lqt_tensors": 5388,
+  "lqt_edit_log_entries": 10029,
+  "lqt_edit_log_valid_after_restart": true,
+  "rsei_ledger_events": 22,
+  "rsei_ledger_head": "bff0af025cb6",
+  "restart_state": {
+    "rsei_dimension": 12,
+    "rsei_frontier": 0,
+    "bayesian_parameters": 15,
+    "motivation_values": 3
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "generated_utc": "2025-12-18T00:00:00Z",
+  "source": "User-provided verification report (2025-12-18) for Zenodo/arXiv preprint preparation; 39 verified, 1 unverified.",
+  "scope": {
+    "canonical_keyset_sha256": "f371c6f6bcd4552ae2e47deb214c925d5e91a1df415ddde946bc657f9dd818a0",
+    "note": "Safety lock: default_status is only applied when the current canonical keyset matches this hash. If it does not match, all unspecified entries become needs_review."
+  },
+  "default_status": "verified",
+  "entries": [
+    {
+      "key": "brouwer l e j 1911 ber abbildung von mannigfaltigkeiten mathematische annalen 71 1 97 115",
+      "status": "verified",
+      "replace_canonical": "Brouwer, L. E. J. (1911). \"Über Abbildung von Mannigfaltigkeiten.\" *Mathematische Annalen*, 71, 97-115.",
+      "note": "Formatting normalization: journal typically cited by volume/pages; issue number omitted."
+    },
+    {
+      "key": "banach s 1922 sur les op rations dans les ensembles abstraits et leur application aux quations int grales fundamenta mathematicae 3 1 133 181",
+      "status": "verified",
+      "replace_canonical": "Banach, S. (1922). \"Sur les opérations dans les ensembles abstraits et leur application aux équations intégrales.\" *Fundamenta Mathematicae*, 3, 133-181.",
+      "note": "Formatting normalization: Fundamenta Mathematicae is commonly cited by volume/pages; issue number omitted."
+    },
+    {
+      "key": "g del k 1931 ber formal unentscheidbare s tze der principia mathematica und verwandter systeme i monatshefte f r mathematik und physik 38 1 173 198",
+      "status": "verified",
+      "replace_canonical": "Gödel, K. (1931). \"Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I.\" *Monatshefte für Mathematik und Physik*, 38, 173-198.",
+      "note": "Formatting normalization: commonly cited by volume/pages; issue number omitted."
+    },
+    {
+      "key": "turing a m 1937 on computable numbers with an application to the entscheidungsproblem proceedings of the london mathematical society 2 1 230 265",
+      "status": "verified",
+      "replace_canonical": "Turing, A. M. (1937). \"On computable numbers, with an application to the Entscheidungsproblem.\" *Proceedings of the London Mathematical Society*, Ser. 2, 42, 230-265.",
+      "note": "Correction: 'Ser. 2' is the series; volume is 42; prior '2(1)' conflated series/volume."
+    },
+    {
+      "key": "shannon c e 1948 a mathematical theory of communication bell system technical journal 27 3 379 423",
+      "status": "verified",
+      "replace_canonical": "Shannon, C. E. (1948). \"A mathematical theory of communication.\" *Bell System Technical Journal*, 27, 379-423; 27, 623-656.",
+      "note": "Clarification: the classic BSTJ paper appears in two parts (July/Oct); both page ranges cited."
+    },
+    {
+      "key": "yao y velez r tanaka m m tanaka k doya k 2021 a theory of plan meta cognition nature communications 12 1 1 12",
+      "status": "unverified",
+      "note": "User verification report: title/authors could not be located in Nature Communications (2021) as cited; likely incorrect or misattributed. Exclude from paper bibliography until corrected."
+    }
+  ]
+}
+

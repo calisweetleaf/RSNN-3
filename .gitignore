@@ -1,0 +1,8 @@
+build/
+**/build/zig/
+__pycache__/
+*.so
+.agents/board/*.lock
+production_doctor.log
+.python_doctor/
+production_doctor_report.*

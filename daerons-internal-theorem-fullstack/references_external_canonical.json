@@ -1,0 +1,1952 @@
+{
+  "canonical": [
+    {
+      "canonical": "Brouwer, L. E. J. (1911). \"\u00dcber Abbildung von Mannigfaltigkeiten.\" *Mathematische Annalen*, 71, 97-115.",
+      "canonical_score": 15,
+      "key": "brouwer l e j 1911 ber abbildung von mannigfaltigkeiten mathematische annalen 71 1 97 115",
+      "occurrence_count": 3,
+      "occurrences": [
+        {
+          "line_start": 400,
+          "path": "theoroms/metacognition&sentience/Temporal_Eigenstate_Theorom.md",
+          "section": "References"
+        },
+        {
+          "line_start": 923,
+          "path": "theoroms/metacognition&sentience/Temporal_Merged_Sentience.md",
+          "section": "References"
+        },
+        {
+          "line_start": 661,
+          "path": "theoroms/v2/Unified_Recursive_Sentient_Field_Theory.md",
+          "section": "References"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "Brouwer, L. E. J. (1911). \"\u00dcber Abbildung von Mannigfaltigkeiten.\" *Mathematische Annalen*, 71(1), 97-115."
+      ],
+      "verification_note": "Formatting normalization: journal typically cited by volume/pages; issue number omitted.",
+      "verification_status": "verified",
+      "year": 1911
+    },
+    {
+      "canonical": "Banach, S. (1922). \"Sur les op\u00e9rations dans les ensembles abstraits et leur application aux \u00e9quations int\u00e9grales.\" *Fundamenta Mathematicae*, 3, 133-181.",
+      "canonical_score": 16,
+      "key": "banach s 1922 sur les op rations dans les ensembles abstraits et leur application aux quations int grales fundamenta mathematicae 3 1 133 181",
+      "occurrence_count": 2,
+      "occurrences": [
+        {
+          "line_start": 442,
+          "path": "theoroms/v2/Unified_Recursive_Field_Theory.md",
+          "section": "References"
+        },
+        {
+          "line_start": 636,
+          "path": "theoroms/v2/Symbolic_Grounding_Theorom.md",
+          "section": "References"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "Banach, S. (1922). \"Sur les op\u00e9rations dans les ensembles abstraits et leur application aux \u00e9quations int\u00e9grales.\" Fundamenta Mathematicae, 3(1), 133-181.",
+        "Banach, S. (1922). Sur les op\u00e9rations dans les ensembles abstraits et leur application aux \u00e9quations int\u00e9grales. *Fundamenta Mathematicae*, 3(1), 133-181."
+      ],
+      "verification_note": "Formatting normalization: Fundamenta Mathematicae is commonly cited by volume/pages; issue number omitted.",
+      "verification_status": "verified",
+      "year": 1922
+    },
+    {
+      "canonical": "G\u00f6del, K. (1931). \"\u00dcber formal unentscheidbare S\u00e4tze der Principia Mathematica und verwandter Systeme I.\" *Monatshefte f\u00fcr Mathematik und Physik*, 38, 173-198.",
+      "canonical_score": 12,
+      "key": "g del k 1931 ber formal unentscheidbare s tze der principia mathematica und verwandter systeme i monatshefte f r mathematik und physik 38 1 173 198",
+      "occurrence_count": 11,
+      "occurrences": [
+        {
+          "line_start": 281,
+          "path": "theoroms/Eigenrecursive_Sentience.md",
+          "section": "Bibliography"
+        },
+        {
+          "line_start": 442,
+          "path": "theoroms/lore&synch/Formal_Recursive_Dimensionality.md",
+          "section": "References"
+        },
+        {
+          "line_start": 281,
+          "path": "theoroms/metacognition&sentience/Eigenrecursive_Sentience.md",
+          "section": "Bibliography"
+        },
+        {
+          "line_start": 442,
+          "path": "theoroms/metacognition&sentience/Formal_Recursive_Dimensionality.md",
+          "section": "References"
+        },
+        {
+          "line_start": 406,
+          "path": "theoroms/metacognition&sentience/Temporal_Eigenstate_Theorom.md",
+          "section": "References"
+        },
+        {
+          "line_start": 931,
+          "path": "theoroms/metacognition&sentience/Temporal_Merged_Sentience.md",
+          "section": "References"
+        },
+        {
+          "line_start": 696,
+          "path": "theoroms/Unified_Recursive_Sentience_Theory.md",
+          "section": "References"
+        },
+        {
+          "line_start": 281,
+          "path": "theoroms/v2/Eigenrecursive_Sentience.md",
+          "section": "Bibliography"
+        },
+        {
+          "line_start": 442,
+          "path": "theoroms/v2/Formal_Recursive_Dimensionality.md",
+          "section": "References"
+        },
+        {
+          "line_start": 667,
+          "path": "theoroms/v2/Unified_Recursive_Sentient_Field_Theory.md",
+          "section": "References"
+        },
+        {
+          "line_start": 648,
+          "path": "theoroms/v2/Symbolic_Grounding_Theorom.md",
+          "section": "References"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "G\u00f6del, K. (1931). \"\u00dcber formal unentscheidbare S\u00e4tze der Principia Mathematica und verwandter Systeme I.\" *Monatshefte f\u00fcr Mathematik und Physik*, 38(1), 173-198.",
+        "G\u00f6del, K. (1931). \u00dcber formal unentscheidbare S\u00e4tze der Principia Mathematica und verwandter Systeme I. *Monatshefte f\u00fcr Mathematik und Physik*, 38(1), 173-198."
+      ],
+      "verification_note": "Formatting normalization: commonly cited by volume/pages; issue number omitted.",
+      "verification_status": "verified",
+      "year": 1931
+    },
+    {
+      "canonical": "Church, A. (1936). An unsolvable problem of elementary number theory. *American Journal of Mathematics*, 58(2), 345-363.",
+      "canonical_score": 14,
+      "key": "church a 1936 an unsolvable problem of elementary number theory american journal of mathematics 58 2 345 363",
+      "occurrence_count": 1,
+      "occurrences": [
+        {
+          "line_start": 646,
+          "path": "theoroms/v2/Symbolic_Grounding_Theorom.md",
+          "section": "References"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "Church, A. (1936). An unsolvable problem of elementary number theory. *American Journal of Mathematics*, 58(2), 345-363."
+      ],
+      "verification_note": null,
+      "verification_status": "verified",
+      "year": 1936
+    },
+    {
+      "canonical": "Turing, A. M. (1937). \"On computable numbers, with an application to the Entscheidungsproblem.\" *Proceedings of the London Mathematical Society*, Ser. 2, 42, 230-265.",
+      "canonical_score": 17,
+      "key": "turing a m 1937 on computable numbers with an application to the entscheidungsproblem proceedings of the london mathematical society 2 1 230 265",
+      "occurrence_count": 2,
+      "occurrences": [
+        {
+          "line_start": 444,
+          "path": "theoroms/v2/Unified_Recursive_Field_Theory.md",
+          "section": "References"
+        },
+        {
+          "line_start": 664,
+          "path": "theoroms/v2/Symbolic_Grounding_Theorom.md",
+          "section": "References"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "Turing, A. M. (1937). \"On computable numbers, with an application to the Entscheidungsproblem.\" Proceedings of the London Mathematical Society, 2(1), 230-265.",
+        "Turing, A. M. (1937). On computable numbers, with an application to the Entscheidungsproblem. *Proceedings of the London Mathematical Society*, 2(1), 230-265."
+      ],
+      "verification_note": "Correction: 'Ser. 2' is the series; volume is 42; prior '2(1)' conflated series/volume.",
+      "verification_status": "verified",
+      "year": 1937
+    },
+    {
+      "canonical": "Wald, A. (1947). *Sequential Analysis*. John Wiley & Sons.",
+      "canonical_score": 11,
+      "key": "wald a 1947 sequential analysis john wiley sons",
+      "occurrence_count": 1,
+      "occurrences": [
+        {
+          "line_start": 350,
+          "path": "theoroms/ethics&stability/recursive learning/RAL_Bridge.md",
+          "section": "References"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "Wald, A. (1947). *Sequential Analysis*. John Wiley & Sons."
+      ],
+      "verification_note": null,
+      "verification_status": "verified",
+      "year": 1947
+    },
+    {
+      "canonical": "Shannon, C. E. (1948). \"A mathematical theory of communication.\" *Bell System Technical Journal*, 27, 379-423; 27, 623-656.",
+      "canonical_score": 16,
+      "key": "shannon c e 1948 a mathematical theory of communication bell system technical journal 27 3 379 423",
+      "occurrence_count": 3,
+      "occurrences": [
+        {
+          "line_start": 941,
+          "path": "theoroms/metacognition&sentience/Temporal_Merged_Sentience.md",
+          "section": "References"
+        },
+        {
+          "line_start": 706,
+          "path": "theoroms/Unified_Recursive_Sentience_Theory.md",
+          "section": "References"
+        },
+        {
+          "line_start": 660,
+          "path": "theoroms/v2/Symbolic_Grounding_Theorom.md",
+          "section": "References"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "Shannon, C. E. (1948). \"A mathematical theory of communication.\" *Bell System Technical Journal*, 27(3), 379-423.",
+        "Shannon, C. E. (1948). A mathematical theory of communication. *Bell System Technical Journal*, 27(3), 379-423."
+      ],
+      "verification_note": "Clarification: the classic BSTJ paper appears in two parts (July/Oct); both page ranges cited.",
+      "verification_status": "verified",
+      "year": 1948
+    },
+    {
+      "canonical": "Tarski, A. (1955). \"A lattice-theoretical fixpoint theorem and its applications.\" *Pacific Journal of Mathematics*, 5(2), 285-309.",
+      "canonical_score": 16,
+      "key": "tarski a 1955 a lattice theoretical fixpoint theorem and its applications pacific journal of mathematics 5 2 285 309",
+      "occurrence_count": 3,
+      "occurrences": [
+        {
+          "line_start": 410,
+          "path": "theoroms/metacognition&sentience/Temporal_Eigenstate_Theorom.md",
+          "section": "References"
+        },
+        {
+          "line_start": 943,
+          "path": "theoroms/metacognition&sentience/Temporal_Merged_Sentience.md",
+          "section": "References"
+        },
+        {
+          "line_start": 671,
+          "path": "theoroms/v2/Unified_Recursive_Sentient_Field_Theory.md",
+          "section": "References"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "Tarski, A. (1955). \"A lattice-theoretical fixpoint theorem and its applications.\" *Pacific Journal of Mathematics*, 5(2), 285-309."
+      ],
+      "verification_note": null,
+      "verification_status": "verified",
+      "year": 1955
+    },
+    {
+      "canonical": "Von Neumann, J. (1955). *Mathematical foundations of quantum mechanics*. Princeton University Press.",
+      "canonical_score": 12,
+      "key": "von neumann j 1955 mathematical foundations of quantum mechanics princeton university press",
+      "occurrence_count": 3,
+      "occurrences": [
+        {
+          "line_start": 285,
+          "path": "theoroms/Eigenrecursive_Sentience.md",
+          "section": "Bibliography"
+        },
+        {
+          "line_start": 285,
+          "path": "theoroms/metacognition&sentience/Eigenrecursive_Sentience.md",
+          "section": "Bibliography"
+        },
+        {
+          "line_start": 285,
+          "path": "theoroms/v2/Eigenrecursive_Sentience.md",
+          "section": "Bibliography"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "Von Neumann, J. (1955). *Mathematical foundations of quantum mechanics*. Princeton University Press."
+      ],
+      "verification_note": null,
+      "verification_status": "verified",
+      "year": 1955
+    },
+    {
+      "canonical": "Milnor, J. (1963). *Morse Theory*. Princeton University Press.",
+      "canonical_score": 11,
+      "key": "milnor j 1963 morse theory princeton university press",
+      "occurrence_count": 1,
+      "occurrences": [
+        {
+          "line_start": 354,
+          "path": "theoroms/ethics&stability/recursive learning/RAL_Bridge.md",
+          "section": "References"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "Milnor, J. (1963). *Morse Theory*. Princeton University Press."
+      ],
+      "verification_note": null,
+      "verification_status": "verified",
+      "year": 1963
+    },
+    {
+      "canonical": "Mac Lane, S. (1971). *Categories for the Working Mathematician*. Springer-Verlag.",
+      "canonical_score": 12,
+      "key": "mac lane s 1971 categories for the working mathematician springer verlag",
+      "occurrence_count": 1,
+      "occurrences": [
+        {
+          "line_start": 654,
+          "path": "theoroms/v2/Symbolic_Grounding_Theorom.md",
+          "section": "References"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "Mac Lane, S. (1971). *Categories for the Working Mathematician*. Springer-Verlag."
+      ],
+      "verification_note": null,
+      "verification_status": "verified",
+      "year": 1971
+    },
+    {
+      "canonical": "Hofstadter, D. R. (1979). *G\u00f6del, Escher, Bach: An Eternal Golden Braid*. Basic Books.",
+      "canonical_score": 8,
+      "key": "hofstadter d r 1979 g del escher bach an eternal golden braid basic books",
+      "occurrence_count": 1,
+      "occurrences": [
+        {
+          "line_start": 698,
+          "path": "theoroms/Unified_Recursive_Sentience_Theory.md",
+          "section": "References"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "Hofstadter, D. R. (1979). *G\u00f6del, Escher, Bach: An Eternal Golden Braid*. Basic Books."
+      ],
+      "verification_note": null,
+      "verification_status": "verified",
+      "year": 1979
+    },
+    {
+      "canonical": "Gromov, M. (1987). Hyperbolic groups. *Essays in Group Theory*, 8, 75-263.",
+      "canonical_score": 8,
+      "key": "gromov m 1987 hyperbolic groups essays in group theory 8 75 263",
+      "occurrence_count": 1,
+      "occurrences": [
+        {
+          "line_start": 344,
+          "path": "theoroms/ethics&stability/recursive learning/RAL_Bridge.md",
+          "section": "References"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "Gromov, M. (1987). Hyperbolic groups. *Essays in Group Theory*, 8, 75-263."
+      ],
+      "verification_note": null,
+      "verification_status": "verified",
+      "year": 1987
+    },
+    {
+      "canonical": "Harnad, S. (1990). The symbol grounding problem. *Physica D: Nonlinear Phenomena*, 42(1-3), 335-346.",
+      "canonical_score": 13,
+      "key": "harnad s 1990 the symbol grounding problem physica d nonlinear phenomena 42 1 3 335 346",
+      "occurrence_count": 1,
+      "occurrences": [
+        {
+          "line_start": 650,
+          "path": "theoroms/v2/Symbolic_Grounding_Theorom.md",
+          "section": "References"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "Harnad, S. (1990). The symbol grounding problem. *Physica D: Nonlinear Phenomena*, 42(1-3), 335-346."
+      ],
+      "verification_note": null,
+      "verification_status": "verified",
+      "year": 1990
+    },
+    {
+      "canonical": "Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown and Company.",
+      "canonical_score": 7,
+      "key": "dennett d c 1991 consciousness explained little brown and company",
+      "occurrence_count": 3,
+      "occurrences": [
+        {
+          "line_start": 929,
+          "path": "theoroms/metacognition&sentience/Temporal_Merged_Sentience.md",
+          "section": "References"
+        },
+        {
+          "line_start": 694,
+          "path": "theoroms/Unified_Recursive_Sentience_Theory.md",
+          "section": "References"
+        },
+        {
+          "line_start": 681,
+          "path": "theoroms/v2/Unified_Recursive_Sentient_Field_Theory.md",
+          "section": "References"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown and Company."
+      ],
+      "verification_note": null,
+      "verification_status": "verified",
+      "year": 1991
+    },
+    {
+      "canonical": "Goguen, J. A. (1991). A categorical manifesto. *Mathematical Structures in Computer Science*, 1(1), 49-67.",
+      "canonical_score": 13,
+      "key": "goguen j a 1991 a categorical manifesto mathematical structures in computer science 1 1 49 67",
+      "occurrence_count": 1,
+      "occurrences": [
+        {
+          "line_start": 352,
+          "path": "theoroms/ethics&stability/recursive learning/RAL_Bridge.md",
+          "section": "References"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "Goguen, J. A. (1991). A categorical manifesto. *Mathematical Structures in Computer Science*, 1(1), 49-67."
+      ],
+      "verification_note": null,
+      "verification_status": "verified",
+      "year": 1991
+    },
+    {
+      "canonical": "Varela, F. J., Thompson, E., & Rosch, E. (1991). *The Embodied Mind: Cognitive Science and Human Experience*. MIT Press.",
+      "canonical_score": 13,
+      "key": "varela f j thompson e rosch e 1991 the embodied mind cognitive science and human experience mit press",
+      "occurrence_count": 1,
+      "occurrences": [
+        {
+          "line_start": 712,
+          "path": "theoroms/Unified_Recursive_Sentience_Theory.md",
+          "section": "References"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "Varela, F. J., Thompson, E., & Rosch, E. (1991). *The Embodied Mind: Cognitive Science and Human Experience*. MIT Press."
+      ],
+      "verification_note": null,
+      "verification_status": "verified",
+      "year": 1991
+    },
+    {
+      "canonical": "Chalmers, D. J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.",
+      "canonical_score": 12,
+      "key": "chalmers d j 1996 the conscious mind in search of a fundamental theory oxford university press",
+      "occurrence_count": 3,
+      "occurrences": [
+        {
+          "line_start": 927,
+          "path": "theoroms/metacognition&sentience/Temporal_Merged_Sentience.md",
+          "section": "References"
+        },
+        {
+          "line_start": 644,
+          "path": "theoroms/v2/Symbolic_Grounding_Theorom.md",
+          "section": "References"
+        },
+        {
+          "line_start": 679,
+          "path": "theoroms/v2/Unified_Recursive_Sentient_Field_Theory.md",
+          "section": "References"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "Chalmers, D. J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press."
+      ],
+      "verification_note": null,
+      "verification_status": "verified",
+      "year": 1996
+    },
+    {
+      "canonical": "Zhou, K., Doyle, J. C., & Glover, K. (1996). *Robust and Optimal Control*. Prentice Hall.",
+      "canonical_score": 8,
+      "key": "zhou k doyle j c glover k 1996 robust and optimal control prentice hall",
+      "occurrence_count": 1,
+      "occurrences": [
+        {
+          "line_start": 356,
+          "path": "theoroms/ethics&stability/recursive learning/RAL_Bridge.md",
+          "section": "References"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "Zhou, K., Doyle, J. C., & Glover, K. (1996). *Robust and Optimal Control*. Prentice Hall."
+      ],
+      "verification_note": null,
+      "verification_status": "verified",
+      "year": 1996
+    },
+    {
+      "canonical": "Wolpert, D. H., & Macready, W. G. (1997). \"No free lunch theorems for optimization.\" *IEEE Transactions on Evolutionary Computation*, 1(1), 67-82.",
+      "canonical_score": 16,
+      "key": "wolpert d h macready w g 1997 no free lunch theorems for optimization ieee transactions on evolutionary computation 1 1 67 82",
+      "occurrence_count": 3,
+      "occurrences": [
+        {
+          "line_start": 286,
+          "path": "theoroms/Eigenrecursive_Sentience.md",
+          "section": "Bibliography"
+        },
+        {
+          "line_start": 286,
+          "path": "theoroms/metacognition&sentience/Eigenrecursive_Sentience.md",
+          "section": "Bibliography"
+        },
+        {
+          "line_start": 286,
+          "path": "theoroms/v2/Eigenrecursive_Sentience.md",
+          "section": "Bibliography"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "Wolpert, D. H., & Macready, W. G. (1997). \"No free lunch theorems for optimization.\" *IEEE Transactions on Evolutionary Computation*, 1(1), 67-82."
+      ],
+      "verification_note": null,
+      "verification_status": "verified",
+      "year": 1997
+    },
+    {
+      "canonical": "Mac Lane, S. (1998). *Categories for the Working Mathematician*. Springer.",
+      "canonical_score": 11,
+      "key": "mac lane s 1998 categories for the working mathematician springer",
+      "occurrence_count": 1,
+      "occurrences": [
+        {
+          "line_start": 346,
+          "path": "theoroms/ethics&stability/recursive learning/RAL_Bridge.md",
+          "section": "References"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "Mac Lane, S. (1998). *Categories for the Working Mathematician*. Springer."
+      ],
+      "verification_note": null,
+      "verification_status": "verified",
+      "year": 1998
+    },
+    {
+      "canonical": "Khalil, H. K. (2002). *Nonlinear Systems*. Prentice Hall.",
+      "canonical_score": 7,
+      "key": "khalil h k 2002 nonlinear systems prentice hall",
+      "occurrence_count": 1,
+      "occurrences": [
+        {
+          "line_start": 345,
+          "path": "theoroms/ethics&stability/recursive learning/RAL_Bridge.md",
+          "section": "References"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "Khalil, H. K. (2002). *Nonlinear Systems*. Prentice Hall."
+      ],
+      "verification_note": null,
+      "verification_status": "verified",
+      "year": 2002
+    },
+    {
+      "canonical": "Perelman, G. (2002). The entropy formula for the Ricci flow and its geometric applications. *arXiv:math/0211159*.",
+      "canonical_score": 8,
+      "key": "perelman g 2002 the entropy formula for the ricci flow and its geometric applications arxiv math 0211159",
+      "occurrence_count": 1,
+      "occurrences": [
+        {
+          "line_start": 349,
+          "path": "theoroms/ethics&stability/recursive learning/RAL_Bridge.md",
+          "section": "References"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "Perelman, G. (2002). The entropy formula for the Ricci flow and its geometric applications. *arXiv:math/0211159*."
+      ],
+      "verification_note": null,
+      "verification_status": "verified",
+      "year": 2002
+    },
+    {
+      "canonical": "Tononi, G. (2004). \"An information integration theory of consciousness.\" *BMC Neuroscience*, 5(1), 42.",
+      "canonical_score": 14,
+      "key": "tononi g 2004 an information integration theory of consciousness bmc neuroscience 5 1 42",
+      "occurrence_count": 2,
+      "occurrences": [
+        {
+          "line_start": 708,
+          "path": "theoroms/Unified_Recursive_Sentience_Theory.md",
+          "section": "References"
+        },
+        {
+          "line_start": 662,
+          "path": "theoroms/v2/Symbolic_Grounding_Theorom.md",
+          "section": "References"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "Tononi, G. (2004). \"An information integration theory of consciousness.\" *BMC Neuroscience*, 5(1), 42.",
+        "Tononi, G. (2004). An information integration theory of consciousness. *BMC Neuroscience*, 5(1), 42."
+      ],
+      "verification_note": null,
+      "verification_status": "verified",
+      "year": 2004
+    },
+    {
+      "canonical": "Aaronson, S. (2005). Quantum computing, postselection, and probabilistic polynomial-time. *Proceedings of the Royal Society A*, 461(2063), 3473-3482.",
+      "canonical_score": 14,
+      "key": "aaronson s 2005 quantum computing postselection and probabilistic polynomial time proceedings of the royal society a 461 2063 3473 3482",
+      "occurrence_count": 1,
+      "occurrences": [
+        {
+          "line_start": 351,
+          "path": "theoroms/ethics&stability/recursive learning/RAL_Bridge.md",
+          "section": "References"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "Aaronson, S. (2005). Quantum computing, postselection, and probabilistic polynomial-time. *Proceedings of the Royal Society A*, 461(2063), 3473-3482."
+      ],
+      "verification_note": null,
+      "verification_status": "verified",
+      "year": 2005
+    },
+    {
+      "canonical": "Cover, T. M., & Thomas, J. A. (2006). *Elements of Information Theory*. Wiley-Interscience.",
+      "canonical_score": 12,
+      "key": "cover t m thomas j a 2006 elements of information theory wiley interscience",
+      "occurrence_count": 1,
+      "occurrences": [
+        {
+          "line_start": 353,
+          "path": "theoroms/ethics&stability/recursive learning/RAL_Bridge.md",
+          "section": "References"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "Cover, T. M., & Thomas, J. A. (2006). *Elements of Information Theory*. Wiley-Interscience."
+      ],
+      "verification_note": null,
+      "verification_status": "verified",
+      "year": 2006
+    },
+    {
+      "canonical": "Hofstadter, D. R. (2007). *I am a Strange Loop*. Basic Books.",
+      "canonical_score": 7,
+      "key": "hofstadter d r 2007 i am a strange loop basic books",
+      "occurrence_count": 4,
+      "occurrences": [
+        {
+          "line_start": 282,
+          "path": "theoroms/Eigenrecursive_Sentience.md",
+          "section": "Bibliography"
+        },
+        {
+          "line_start": 282,
+          "path": "theoroms/metacognition&sentience/Eigenrecursive_Sentience.md",
+          "section": "Bibliography"
+        },
+        {
+          "line_start": 282,
+          "path": "theoroms/v2/Eigenrecursive_Sentience.md",
+          "section": "Bibliography"
+        },
+        {
+          "line_start": 652,
+          "path": "theoroms/v2/Symbolic_Grounding_Theorom.md",
+          "section": "References"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "Hofstadter, D. R. (2007). *I Am a Strange Loop*. Basic Books.",
+        "Hofstadter, D. R. (2007). *I am a Strange Loop*. Basic Books."
+      ],
+      "verification_note": null,
+      "verification_status": "verified",
+      "year": 2007
+    },
+    {
+      "canonical": "Li, M., & Vit\u00e1nyi, P. (2008). *An Introduction to Kolmogorov Complexity and Its Applications*. Springer.",
+      "canonical_score": 12,
+      "key": "li m vit nyi p 2008 an introduction to kolmogorov complexity and its applications springer",
+      "occurrence_count": 1,
+      "occurrences": [
+        {
+          "line_start": 358,
+          "path": "theoroms/ethics&stability/recursive learning/RAL_Bridge.md",
+          "section": "References"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "Li, M., & Vit\u00e1nyi, P. (2008). *An Introduction to Kolmogorov Complexity and Its Applications*. Springer."
+      ],
+      "verification_note": null,
+      "verification_status": "verified",
+      "year": 2008
+    },
+    {
+      "canonical": "Friston, K. (2010). \"The free-energy principle: a unified brain theory?\" *Nature Reviews Neuroscience*, 11(2), 127-138.",
+      "canonical_score": 15,
+      "key": "friston k 2010 the free energy principle a unified brain theory nature reviews neuroscience 11 2 127 138",
+      "occurrence_count": 4,
+      "occurrences": [
+        {
+          "line_start": 280,
+          "path": "theoroms/Eigenrecursive_Sentience.md",
+          "section": "Bibliography"
+        },
+        {
+          "line_start": 280,
+          "path": "theoroms/metacognition&sentience/Eigenrecursive_Sentience.md",
+          "section": "Bibliography"
+        },
+        {
+          "line_start": 280,
+          "path": "theoroms/v2/Eigenrecursive_Sentience.md",
+          "section": "Bibliography"
+        },
+        {
+          "line_start": 357,
+          "path": "theoroms/ethics&stability/recursive learning/RAL_Bridge.md",
+          "section": "References"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "Friston, K. (2010). \"The free-energy principle: a unified brain theory?\" *Nature Reviews Neuroscience*, 11(2), 127-138.",
+        "Friston, K. (2010). The free-energy principle: a unified brain theory? *Nature Reviews Neuroscience*, 11(2), 127-138."
+      ],
+      "verification_note": null,
+      "verification_status": "verified",
+      "year": 2010
+    },
+    {
+      "canonical": "Nielsen, M. A., & Chuang, I. L. (2010). *Quantum Computation and Quantum Information*. Cambridge University Press.",
+      "canonical_score": 12,
+      "key": "nielsen m a chuang i l 2010 quantum computation and quantum information cambridge university press",
+      "occurrence_count": 1,
+      "occurrences": [
+        {
+          "line_start": 347,
+          "path": "theoroms/ethics&stability/recursive learning/RAL_Bridge.md",
+          "section": "References"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "Nielsen, M. A., & Chuang, I. L. (2010). *Quantum Computation and Quantum Information*. Cambridge University Press."
+      ],
+      "verification_note": null,
+      "verification_status": "verified",
+      "year": 2010
+    },
+    {
+      "canonical": "Oizumi, M., Albantakis, L., & Tononi, G. (2014). \"From the phenomenology to the mechanisms of consciousness: integrated information theory 3.0.\" *PLoS Computational Biology*, 10(5), e1003588.",
+      "canonical_score": 16,
+      "key": "oizumi m albantakis l tononi g 2014 from the phenomenology to the mechanisms of consciousness integrated information theory 3 0 plos computational biology 10 5 e1003588",
+      "occurrence_count": 7,
+      "occurrences": [
+        {
+          "line_start": 283,
+          "path": "theoroms/Eigenrecursive_Sentience.md",
+          "section": "Bibliography"
+        },
+        {
+          "line_start": 283,
+          "path": "theoroms/metacognition&sentience/Eigenrecursive_Sentience.md",
+          "section": "Bibliography"
+        },
+        {
+          "line_start": 937,
+          "path": "theoroms/metacognition&sentience/Temporal_Merged_Sentience.md",
+          "section": "References"
+        },
+        {
+          "line_start": 283,
+          "path": "theoroms/v2/Eigenrecursive_Sentience.md",
+          "section": "Bibliography"
+        },
+        {
+          "line_start": 685,
+          "path": "theoroms/v2/Unified_Recursive_Sentient_Field_Theory.md",
+          "section": "References"
+        },
+        {
+          "line_start": 702,
+          "path": "theoroms/Unified_Recursive_Sentience_Theory.md",
+          "section": "References"
+        },
+        {
+          "line_start": 656,
+          "path": "theoroms/v2/Symbolic_Grounding_Theorom.md",
+          "section": "References"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "Oizumi, M., Albantakis, L., & Tononi, G. (2014). \"From the phenomenology to the mechanisms of consciousness: Integrated Information Theory 3.0.\" *PLoS Computational Biology*, 10(5), e1003588.",
+        "Oizumi, M., Albantakis, L., & Tononi, G. (2014). \"From the phenomenology to the mechanisms of consciousness: integrated information theory 3.0.\" *PLoS Computational Biology*, 10(5), e1003588.",
+        "Oizumi, M., Albantakis, L., & Tononi, G. (2014). From the phenomenology to the mechanisms of consciousness: Integrated Information Theory 3.0. *PLoS Computational Biology*, 10(5), e1003588."
+      ],
+      "verification_note": null,
+      "verification_status": "verified",
+      "year": 2014
+    },
+    {
+      "canonical": "Tegmark, M. (2015). \"Consciousness as a state of matter.\" *Chaos, Solitons & Fractals*, 76, 238-270.",
+      "canonical_score": 11,
+      "key": "tegmark m 2015 consciousness as a state of matter chaos solitons fractals 76 238 270",
+      "occurrence_count": 2,
+      "occurrences": [
+        {
+          "line_start": 945,
+          "path": "theoroms/metacognition&sentience/Temporal_Merged_Sentience.md",
+          "section": "References"
+        },
+        {
+          "line_start": 683,
+          "path": "theoroms/v2/Unified_Recursive_Sentient_Field_Theory.md",
+          "section": "References"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "Tegmark, M. (2015). \"Consciousness as a state of matter.\" *Chaos, Solitons & Fractals*, 76, 238-270."
+      ],
+      "verification_note": null,
+      "verification_status": "verified",
+      "year": 2015
+    },
+    {
+      "canonical": "Tononi, G., & Koch, C. (2015). \"Consciousness: here, there and everywhere?\" *Philosophical Transactions of the Royal Society B: Biological Sciences*, 370(1668), 20140167.",
+      "canonical_score": 16,
+      "key": "tononi g koch c 2015 consciousness here there and everywhere philosophical transactions of the royal society b biological sciences 370 1668 20140167",
+      "occurrence_count": 3,
+      "occurrences": [
+        {
+          "line_start": 284,
+          "path": "theoroms/Eigenrecursive_Sentience.md",
+          "section": "Bibliography"
+        },
+        {
+          "line_start": 284,
+          "path": "theoroms/metacognition&sentience/Eigenrecursive_Sentience.md",
+          "section": "Bibliography"
+        },
+        {
+          "line_start": 284,
+          "path": "theoroms/v2/Eigenrecursive_Sentience.md",
+          "section": "Bibliography"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "Tononi, G., & Koch, C. (2015). \"Consciousness: here, there and everywhere?\" *Philosophical Transactions of the Royal Society B: Biological Sciences*, 370(1668), 20140167."
+      ],
+      "verification_note": null,
+      "verification_status": "verified",
+      "year": 2015
+    },
+    {
+      "canonical": "Aaronson, S. (2016). \"The Ghost in the Quantum Turing Machine.\" In *The Once and Future Turing*.",
+      "canonical_score": 10,
+      "key": "aaronson s 2016 the ghost in the quantum turing machine in the once and future turing",
+      "occurrence_count": 3,
+      "occurrences": [
+        {
+          "line_start": 278,
+          "path": "theoroms/Eigenrecursive_Sentience.md",
+          "section": "Bibliography"
+        },
+        {
+          "line_start": 278,
+          "path": "theoroms/metacognition&sentience/Eigenrecursive_Sentience.md",
+          "section": "Bibliography"
+        },
+        {
+          "line_start": 278,
+          "path": "theoroms/v2/Eigenrecursive_Sentience.md",
+          "section": "Bibliography"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "Aaronson, S. (2016). \"The Ghost in the Quantum Turing Machine.\" In *The Once and Future Turing*."
+      ],
+      "verification_note": null,
+      "verification_status": "verified",
+      "year": 2016
+    },
+    {
+      "canonical": "Amari, S. I. (2016). *Information Geometry and Its Applications*. Springer.",
+      "canonical_score": 11,
+      "key": "amari s i 2016 information geometry and its applications springer",
+      "occurrence_count": 1,
+      "occurrences": [
+        {
+          "line_start": 348,
+          "path": "theoroms/ethics&stability/recursive learning/RAL_Bridge.md",
+          "section": "References"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "Amari, S. I. (2016). *Information Geometry and Its Applications*. Springer."
+      ],
+      "verification_note": null,
+      "verification_status": "verified",
+      "year": 2016
+    },
+    {
+      "canonical": "Petersen, P. (2016). *Riemannian Geometry*. Springer.",
+      "canonical_score": 11,
+      "key": "petersen p 2016 riemannian geometry springer",
+      "occurrence_count": 1,
+      "occurrences": [
+        {
+          "line_start": 355,
+          "path": "theoroms/ethics&stability/recursive learning/RAL_Bridge.md",
+          "section": "References"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "Petersen, P. (2016). *Riemannian Geometry*. Springer."
+      ],
+      "verification_note": null,
+      "verification_status": "verified",
+      "year": 2016
+    },
+    {
+      "canonical": "Tononi, G., Boly, M., Massimini, M., & Koch, C. (2016). \"Integrated information theory: from consciousness to its physical substrate.\" *Nature Reviews Neuroscience*, 17(7), 450-461.",
+      "canonical_score": 17,
+      "key": "tononi g boly m massimini m koch c 2016 integrated information theory from consciousness to its physical substrate nature reviews neuroscience 17 7 450 461",
+      "occurrence_count": 2,
+      "occurrences": [
+        {
+          "line_start": 947,
+          "path": "theoroms/metacognition&sentience/Temporal_Merged_Sentience.md",
+          "section": "References"
+        },
+        {
+          "line_start": 675,
+          "path": "theoroms/v2/Unified_Recursive_Sentient_Field_Theory.md",
+          "section": "References"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "Tononi, G., Boly, M., Massimini, M., & Koch, C. (2016). \"Integrated information theory: from consciousness to its physical substrate.\" *Nature Reviews Neuroscience*, 17(7), 450-461."
+      ],
+      "verification_note": null,
+      "verification_status": "verified",
+      "year": 2016
+    },
+    {
+      "canonical": "Dehaene, S., Lau, H., & Kouider, S. (2017). \"What is consciousness, and could machines have it?\" *Science*, 358(6362), 486-492.",
+      "canonical_score": 16,
+      "key": "dehaene s lau h kouider s 2017 what is consciousness and could machines have it science 358 6362 486 492",
+      "occurrence_count": 3,
+      "occurrences": [
+        {
+          "line_start": 279,
+          "path": "theoroms/Eigenrecursive_Sentience.md",
+          "section": "Bibliography"
+        },
+        {
+          "line_start": 279,
+          "path": "theoroms/metacognition&sentience/Eigenrecursive_Sentience.md",
+          "section": "Bibliography"
+        },
+        {
+          "line_start": 279,
+          "path": "theoroms/v2/Eigenrecursive_Sentience.md",
+          "section": "Bibliography"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "Dehaene, S., Lau, H., & Kouider, S. (2017). \"What is consciousness, and could machines have it?\" *Science*, 358(6362), 486-492."
+      ],
+      "verification_note": null,
+      "verification_status": "verified",
+      "year": 2017
+    },
+    {
+      "canonical": "Koch, C. (2019). *The Feeling of Life Itself: Why Consciousness Is Widespread but Can't Be Computed*. MIT Press.",
+      "canonical_score": 12,
+      "key": "koch c 2019 the feeling of life itself why consciousness is widespread but cant be computed mit press",
+      "occurrence_count": 2,
+      "occurrences": [
+        {
+          "line_start": 935,
+          "path": "theoroms/metacognition&sentience/Temporal_Merged_Sentience.md",
+          "section": "References"
+        },
+        {
+          "line_start": 687,
+          "path": "theoroms/v2/Unified_Recursive_Sentient_Field_Theory.md",
+          "section": "References"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "Koch, C. (2019). *The Feeling of Life Itself: Why Consciousness Is Widespread but Can't Be Computed*. MIT Press."
+      ],
+      "verification_note": null,
+      "verification_status": "verified",
+      "year": 2019
+    },
+    {
+      "canonical": "Yao, Y., Velez, R., Tanaka, M. M., Tanaka, K., & Doya, K. (2021). \"A theory of plan meta-cognition.\" *Nature Communications*, 12(1), 1-12.",
+      "canonical_score": 16,
+      "key": "yao y velez r tanaka m m tanaka k doya k 2021 a theory of plan meta cognition nature communications 12 1 1 12",
+      "occurrence_count": 5,
+      "occurrences": [
+        {
+          "line_start": 287,
+          "path": "theoroms/Eigenrecursive_Sentience.md",
+          "section": "Bibliography"
+        },
+        {
+          "line_start": 287,
+          "path": "theoroms/metacognition&sentience/Eigenrecursive_Sentience.md",
+          "section": "Bibliography"
+        },
+        {
+          "line_start": 951,
+          "path": "theoroms/metacognition&sentience/Temporal_Merged_Sentience.md",
+          "section": "References"
+        },
+        {
+          "line_start": 287,
+          "path": "theoroms/v2/Eigenrecursive_Sentience.md",
+          "section": "Bibliography"
+        },
+        {
+          "line_start": 677,
+          "path": "theoroms/v2/Unified_Recursive_Sentient_Field_Theory.md",
+          "section": "References"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "Yao, Y., Velez, R., Tanaka, M. M., Tanaka, K., & Doya, K. (2021). \"A theory of plan meta-cognition.\" *Nature Communications*, 12(1), 1-12."
+      ],
+      "verification_note": "User verification report: title/authors could not be located in Nature Communications (2021) as cited; likely incorrect or misattributed. Exclude from paper bibliography until corrected.",
+      "verification_status": "unverified",
+      "year": 2021
+    }
+  ],
+  "canonical_count": 40,
+  "generated_utc": "2025-12-18T11:32:35.735451+00:00",
+  "input_json": "C:\\Users\\treyr\\Desktop\\arxiv\\Recursive_Categorical_Framework\\theoroms\\citations_audit.json",
+  "needs_review_only_count": 0,
+  "rcf_core_shortlist": [
+    {
+      "canonical": "Brouwer, L. E. J. (1911). \"\u00dcber Abbildung von Mannigfaltigkeiten.\" *Mathematische Annalen*, 71, 97-115.",
+      "canonical_score": 15,
+      "key": "brouwer l e j 1911 ber abbildung von mannigfaltigkeiten mathematische annalen 71 1 97 115",
+      "occurrence_count": 3,
+      "occurrences": [
+        {
+          "line_start": 400,
+          "path": "theoroms/metacognition&sentience/Temporal_Eigenstate_Theorom.md",
+          "section": "References"
+        },
+        {
+          "line_start": 923,
+          "path": "theoroms/metacognition&sentience/Temporal_Merged_Sentience.md",
+          "section": "References"
+        },
+        {
+          "line_start": 661,
+          "path": "theoroms/v2/Unified_Recursive_Sentient_Field_Theory.md",
+          "section": "References"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "Brouwer, L. E. J. (1911). \"\u00dcber Abbildung von Mannigfaltigkeiten.\" *Mathematische Annalen*, 71(1), 97-115."
+      ],
+      "verification_note": "Formatting normalization: journal typically cited by volume/pages; issue number omitted.",
+      "verification_status": "verified",
+      "year": 1911
+    },
+    {
+      "canonical": "Banach, S. (1922). \"Sur les op\u00e9rations dans les ensembles abstraits et leur application aux \u00e9quations int\u00e9grales.\" *Fundamenta Mathematicae*, 3, 133-181.",
+      "canonical_score": 16,
+      "key": "banach s 1922 sur les op rations dans les ensembles abstraits et leur application aux quations int grales fundamenta mathematicae 3 1 133 181",
+      "occurrence_count": 2,
+      "occurrences": [
+        {
+          "line_start": 442,
+          "path": "theoroms/v2/Unified_Recursive_Field_Theory.md",
+          "section": "References"
+        },
+        {
+          "line_start": 636,
+          "path": "theoroms/v2/Symbolic_Grounding_Theorom.md",
+          "section": "References"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "Banach, S. (1922). \"Sur les op\u00e9rations dans les ensembles abstraits et leur application aux \u00e9quations int\u00e9grales.\" Fundamenta Mathematicae, 3(1), 133-181.",
+        "Banach, S. (1922). Sur les op\u00e9rations dans les ensembles abstraits et leur application aux \u00e9quations int\u00e9grales. *Fundamenta Mathematicae*, 3(1), 133-181."
+      ],
+      "verification_note": "Formatting normalization: Fundamenta Mathematicae is commonly cited by volume/pages; issue number omitted.",
+      "verification_status": "verified",
+      "year": 1922
+    },
+    {
+      "canonical": "G\u00f6del, K. (1931). \"\u00dcber formal unentscheidbare S\u00e4tze der Principia Mathematica und verwandter Systeme I.\" *Monatshefte f\u00fcr Mathematik und Physik*, 38, 173-198.",
+      "canonical_score": 12,
+      "key": "g del k 1931 ber formal unentscheidbare s tze der principia mathematica und verwandter systeme i monatshefte f r mathematik und physik 38 1 173 198",
+      "occurrence_count": 11,
+      "occurrences": [
+        {
+          "line_start": 281,
+          "path": "theoroms/Eigenrecursive_Sentience.md",
+          "section": "Bibliography"
+        },
+        {
+          "line_start": 442,
+          "path": "theoroms/lore&synch/Formal_Recursive_Dimensionality.md",
+          "section": "References"
+        },
+        {
+          "line_start": 281,
+          "path": "theoroms/metacognition&sentience/Eigenrecursive_Sentience.md",
+          "section": "Bibliography"
+        },
+        {
+          "line_start": 442,
+          "path": "theoroms/metacognition&sentience/Formal_Recursive_Dimensionality.md",
+          "section": "References"
+        },
+        {
+          "line_start": 406,
+          "path": "theoroms/metacognition&sentience/Temporal_Eigenstate_Theorom.md",
+          "section": "References"
+        },
+        {
+          "line_start": 931,
+          "path": "theoroms/metacognition&sentience/Temporal_Merged_Sentience.md",
+          "section": "References"
+        },
+        {
+          "line_start": 696,
+          "path": "theoroms/Unified_Recursive_Sentience_Theory.md",
+          "section": "References"
+        },
+        {
+          "line_start": 281,
+          "path": "theoroms/v2/Eigenrecursive_Sentience.md",
+          "section": "Bibliography"
+        },
+        {
+          "line_start": 442,
+          "path": "theoroms/v2/Formal_Recursive_Dimensionality.md",
+          "section": "References"
+        },
+        {
+          "line_start": 667,
+          "path": "theoroms/v2/Unified_Recursive_Sentient_Field_Theory.md",
+          "section": "References"
+        },
+        {
+          "line_start": 648,
+          "path": "theoroms/v2/Symbolic_Grounding_Theorom.md",
+          "section": "References"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "G\u00f6del, K. (1931). \"\u00dcber formal unentscheidbare S\u00e4tze der Principia Mathematica und verwandter Systeme I.\" *Monatshefte f\u00fcr Mathematik und Physik*, 38(1), 173-198.",
+        "G\u00f6del, K. (1931). \u00dcber formal unentscheidbare S\u00e4tze der Principia Mathematica und verwandter Systeme I. *Monatshefte f\u00fcr Mathematik und Physik*, 38(1), 173-198."
+      ],
+      "verification_note": "Formatting normalization: commonly cited by volume/pages; issue number omitted.",
+      "verification_status": "verified",
+      "year": 1931
+    },
+    {
+      "canonical": "Church, A. (1936). An unsolvable problem of elementary number theory. *American Journal of Mathematics*, 58(2), 345-363.",
+      "canonical_score": 14,
+      "key": "church a 1936 an unsolvable problem of elementary number theory american journal of mathematics 58 2 345 363",
+      "occurrence_count": 1,
+      "occurrences": [
+        {
+          "line_start": 646,
+          "path": "theoroms/v2/Symbolic_Grounding_Theorom.md",
+          "section": "References"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "Church, A. (1936). An unsolvable problem of elementary number theory. *American Journal of Mathematics*, 58(2), 345-363."
+      ],
+      "verification_note": null,
+      "verification_status": "verified",
+      "year": 1936
+    },
+    {
+      "canonical": "Turing, A. M. (1937). \"On computable numbers, with an application to the Entscheidungsproblem.\" *Proceedings of the London Mathematical Society*, Ser. 2, 42, 230-265.",
+      "canonical_score": 17,
+      "key": "turing a m 1937 on computable numbers with an application to the entscheidungsproblem proceedings of the london mathematical society 2 1 230 265",
+      "occurrence_count": 2,
+      "occurrences": [
+        {
+          "line_start": 444,
+          "path": "theoroms/v2/Unified_Recursive_Field_Theory.md",
+          "section": "References"
+        },
+        {
+          "line_start": 664,
+          "path": "theoroms/v2/Symbolic_Grounding_Theorom.md",
+          "section": "References"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "Turing, A. M. (1937). \"On computable numbers, with an application to the Entscheidungsproblem.\" Proceedings of the London Mathematical Society, 2(1), 230-265.",
+        "Turing, A. M. (1937). On computable numbers, with an application to the Entscheidungsproblem. *Proceedings of the London Mathematical Society*, 2(1), 230-265."
+      ],
+      "verification_note": "Correction: 'Ser. 2' is the series; volume is 42; prior '2(1)' conflated series/volume.",
+      "verification_status": "verified",
+      "year": 1937
+    },
+    {
+      "canonical": "Shannon, C. E. (1948). \"A mathematical theory of communication.\" *Bell System Technical Journal*, 27, 379-423; 27, 623-656.",
+      "canonical_score": 16,
+      "key": "shannon c e 1948 a mathematical theory of communication bell system technical journal 27 3 379 423",
+      "occurrence_count": 3,
+      "occurrences": [
+        {
+          "line_start": 941,
+          "path": "theoroms/metacognition&sentience/Temporal_Merged_Sentience.md",
+          "section": "References"
+        },
+        {
+          "line_start": 706,
+          "path": "theoroms/Unified_Recursive_Sentience_Theory.md",
+          "section": "References"
+        },
+        {
+          "line_start": 660,
+          "path": "theoroms/v2/Symbolic_Grounding_Theorom.md",
+          "section": "References"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "Shannon, C. E. (1948). \"A mathematical theory of communication.\" *Bell System Technical Journal*, 27(3), 379-423.",
+        "Shannon, C. E. (1948). A mathematical theory of communication. *Bell System Technical Journal*, 27(3), 379-423."
+      ],
+      "verification_note": "Clarification: the classic BSTJ paper appears in two parts (July/Oct); both page ranges cited.",
+      "verification_status": "verified",
+      "year": 1948
+    },
+    {
+      "canonical": "Tarski, A. (1955). \"A lattice-theoretical fixpoint theorem and its applications.\" *Pacific Journal of Mathematics*, 5(2), 285-309.",
+      "canonical_score": 16,
+      "key": "tarski a 1955 a lattice theoretical fixpoint theorem and its applications pacific journal of mathematics 5 2 285 309",
+      "occurrence_count": 3,
+      "occurrences": [
+        {
+          "line_start": 410,
+          "path": "theoroms/metacognition&sentience/Temporal_Eigenstate_Theorom.md",
+          "section": "References"
+        },
+        {
+          "line_start": 943,
+          "path": "theoroms/metacognition&sentience/Temporal_Merged_Sentience.md",
+          "section": "References"
+        },
+        {
+          "line_start": 671,
+          "path": "theoroms/v2/Unified_Recursive_Sentient_Field_Theory.md",
+          "section": "References"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "Tarski, A. (1955). \"A lattice-theoretical fixpoint theorem and its applications.\" *Pacific Journal of Mathematics*, 5(2), 285-309."
+      ],
+      "verification_note": null,
+      "verification_status": "verified",
+      "year": 1955
+    },
+    {
+      "canonical": "Hofstadter, D. R. (1979). *G\u00f6del, Escher, Bach: An Eternal Golden Braid*. Basic Books.",
+      "canonical_score": 8,
+      "key": "hofstadter d r 1979 g del escher bach an eternal golden braid basic books",
+      "occurrence_count": 1,
+      "occurrences": [
+        {
+          "line_start": 698,
+          "path": "theoroms/Unified_Recursive_Sentience_Theory.md",
+          "section": "References"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "Hofstadter, D. R. (1979). *G\u00f6del, Escher, Bach: An Eternal Golden Braid*. Basic Books."
+      ],
+      "verification_note": null,
+      "verification_status": "verified",
+      "year": 1979
+    },
+    {
+      "canonical": "Harnad, S. (1990). The symbol grounding problem. *Physica D: Nonlinear Phenomena*, 42(1-3), 335-346.",
+      "canonical_score": 13,
+      "key": "harnad s 1990 the symbol grounding problem physica d nonlinear phenomena 42 1 3 335 346",
+      "occurrence_count": 1,
+      "occurrences": [
+        {
+          "line_start": 650,
+          "path": "theoroms/v2/Symbolic_Grounding_Theorom.md",
+          "section": "References"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "Harnad, S. (1990). The symbol grounding problem. *Physica D: Nonlinear Phenomena*, 42(1-3), 335-346."
+      ],
+      "verification_note": null,
+      "verification_status": "verified",
+      "year": 1990
+    },
+    {
+      "canonical": "Goguen, J. A. (1991). A categorical manifesto. *Mathematical Structures in Computer Science*, 1(1), 49-67.",
+      "canonical_score": 13,
+      "key": "goguen j a 1991 a categorical manifesto mathematical structures in computer science 1 1 49 67",
+      "occurrence_count": 1,
+      "occurrences": [
+        {
+          "line_start": 352,
+          "path": "theoroms/ethics&stability/recursive learning/RAL_Bridge.md",
+          "section": "References"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "Goguen, J. A. (1991). A categorical manifesto. *Mathematical Structures in Computer Science*, 1(1), 49-67."
+      ],
+      "verification_note": null,
+      "verification_status": "verified",
+      "year": 1991
+    },
+    {
+      "canonical": "Mac Lane, S. (1998). *Categories for the Working Mathematician*. Springer.",
+      "canonical_score": 11,
+      "key": "mac lane s 1998 categories for the working mathematician springer",
+      "occurrence_count": 1,
+      "occurrences": [
+        {
+          "line_start": 346,
+          "path": "theoroms/ethics&stability/recursive learning/RAL_Bridge.md",
+          "section": "References"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "Mac Lane, S. (1998). *Categories for the Working Mathematician*. Springer."
+      ],
+      "verification_note": null,
+      "verification_status": "verified",
+      "year": 1998
+    },
+    {
+      "canonical": "Cover, T. M., & Thomas, J. A. (2006). *Elements of Information Theory*. Wiley-Interscience.",
+      "canonical_score": 12,
+      "key": "cover t m thomas j a 2006 elements of information theory wiley interscience",
+      "occurrence_count": 1,
+      "occurrences": [
+        {
+          "line_start": 353,
+          "path": "theoroms/ethics&stability/recursive learning/RAL_Bridge.md",
+          "section": "References"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "Cover, T. M., & Thomas, J. A. (2006). *Elements of Information Theory*. Wiley-Interscience."
+      ],
+      "verification_note": null,
+      "verification_status": "verified",
+      "year": 2006
+    }
+  ],
+  "rcf_core_shortlist_count": 12,
+  "sha256": {
+    "canonical_md": "8b8b024c693943af373cbdd641795a4676c58313bb98bc0c4c9f83fa01dee1d1",
+    "canonical_with_occ_md": "382fe3d266b30189a6588b0bdcde5247ce6efbeb65dc5b5f29d15d6d106ae131",
+    "checklist_md": "c3986a130aaf3dab7dfe7cbc2175f45f2cacb7e7059bff5fda9bf486d370b6b2",
+    "minimal_md": "82cf5664fbc0ebb16d92ca3559e313f1436aae562fc04cae05e0e6d09a266f41",
+    "rcf_core_md": "d1923a7a4507512e28e5aa5e1026191342a3892af25d542e53c10e587601da3e",
+    "unverified_md": "cde74a8b7252d8201fd914b9f97e046cbed55e999a4a89291a392236b881df8c",
+    "verified_md": "413708d9ee1bf211014a0cb9cd53191944f4716fa24787f760d64e5b0b16003f"
+  },
+  "shortlist": [
+    {
+      "canonical": "G\u00f6del, K. (1931). \"\u00dcber formal unentscheidbare S\u00e4tze der Principia Mathematica und verwandter Systeme I.\" *Monatshefte f\u00fcr Mathematik und Physik*, 38, 173-198.",
+      "canonical_score": 12,
+      "key": "g del k 1931 ber formal unentscheidbare s tze der principia mathematica und verwandter systeme i monatshefte f r mathematik und physik 38 1 173 198",
+      "occurrence_count": 11,
+      "occurrences": [
+        {
+          "line_start": 281,
+          "path": "theoroms/Eigenrecursive_Sentience.md",
+          "section": "Bibliography"
+        },
+        {
+          "line_start": 442,
+          "path": "theoroms/lore&synch/Formal_Recursive_Dimensionality.md",
+          "section": "References"
+        },
+        {
+          "line_start": 281,
+          "path": "theoroms/metacognition&sentience/Eigenrecursive_Sentience.md",
+          "section": "Bibliography"
+        },
+        {
+          "line_start": 442,
+          "path": "theoroms/metacognition&sentience/Formal_Recursive_Dimensionality.md",
+          "section": "References"
+        },
+        {
+          "line_start": 406,
+          "path": "theoroms/metacognition&sentience/Temporal_Eigenstate_Theorom.md",
+          "section": "References"
+        },
+        {
+          "line_start": 931,
+          "path": "theoroms/metacognition&sentience/Temporal_Merged_Sentience.md",
+          "section": "References"
+        },
+        {
+          "line_start": 696,
+          "path": "theoroms/Unified_Recursive_Sentience_Theory.md",
+          "section": "References"
+        },
+        {
+          "line_start": 281,
+          "path": "theoroms/v2/Eigenrecursive_Sentience.md",
+          "section": "Bibliography"
+        },
+        {
+          "line_start": 442,
+          "path": "theoroms/v2/Formal_Recursive_Dimensionality.md",
+          "section": "References"
+        },
+        {
+          "line_start": 667,
+          "path": "theoroms/v2/Unified_Recursive_Sentient_Field_Theory.md",
+          "section": "References"
+        },
+        {
+          "line_start": 648,
+          "path": "theoroms/v2/Symbolic_Grounding_Theorom.md",
+          "section": "References"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "G\u00f6del, K. (1931). \"\u00dcber formal unentscheidbare S\u00e4tze der Principia Mathematica und verwandter Systeme I.\" *Monatshefte f\u00fcr Mathematik und Physik*, 38(1), 173-198.",
+        "G\u00f6del, K. (1931). \u00dcber formal unentscheidbare S\u00e4tze der Principia Mathematica und verwandter Systeme I. *Monatshefte f\u00fcr Mathematik und Physik*, 38(1), 173-198."
+      ],
+      "verification_note": "Formatting normalization: commonly cited by volume/pages; issue number omitted.",
+      "verification_status": "verified",
+      "year": 1931
+    },
+    {
+      "canonical": "Oizumi, M., Albantakis, L., & Tononi, G. (2014). \"From the phenomenology to the mechanisms of consciousness: integrated information theory 3.0.\" *PLoS Computational Biology*, 10(5), e1003588.",
+      "canonical_score": 16,
+      "key": "oizumi m albantakis l tononi g 2014 from the phenomenology to the mechanisms of consciousness integrated information theory 3 0 plos computational biology 10 5 e1003588",
+      "occurrence_count": 7,
+      "occurrences": [
+        {
+          "line_start": 283,
+          "path": "theoroms/Eigenrecursive_Sentience.md",
+          "section": "Bibliography"
+        },
+        {
+          "line_start": 283,
+          "path": "theoroms/metacognition&sentience/Eigenrecursive_Sentience.md",
+          "section": "Bibliography"
+        },
+        {
+          "line_start": 937,
+          "path": "theoroms/metacognition&sentience/Temporal_Merged_Sentience.md",
+          "section": "References"
+        },
+        {
+          "line_start": 283,
+          "path": "theoroms/v2/Eigenrecursive_Sentience.md",
+          "section": "Bibliography"
+        },
+        {
+          "line_start": 685,
+          "path": "theoroms/v2/Unified_Recursive_Sentient_Field_Theory.md",
+          "section": "References"
+        },
+        {
+          "line_start": 702,
+          "path": "theoroms/Unified_Recursive_Sentience_Theory.md",
+          "section": "References"
+        },
+        {
+          "line_start": 656,
+          "path": "theoroms/v2/Symbolic_Grounding_Theorom.md",
+          "section": "References"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "Oizumi, M., Albantakis, L., & Tononi, G. (2014). \"From the phenomenology to the mechanisms of consciousness: Integrated Information Theory 3.0.\" *PLoS Computational Biology*, 10(5), e1003588.",
+        "Oizumi, M., Albantakis, L., & Tononi, G. (2014). \"From the phenomenology to the mechanisms of consciousness: integrated information theory 3.0.\" *PLoS Computational Biology*, 10(5), e1003588.",
+        "Oizumi, M., Albantakis, L., & Tononi, G. (2014). From the phenomenology to the mechanisms of consciousness: Integrated Information Theory 3.0. *PLoS Computational Biology*, 10(5), e1003588."
+      ],
+      "verification_note": null,
+      "verification_status": "verified",
+      "year": 2014
+    },
+    {
+      "canonical": "Yao, Y., Velez, R., Tanaka, M. M., Tanaka, K., & Doya, K. (2021). \"A theory of plan meta-cognition.\" *Nature Communications*, 12(1), 1-12.",
+      "canonical_score": 16,
+      "key": "yao y velez r tanaka m m tanaka k doya k 2021 a theory of plan meta cognition nature communications 12 1 1 12",
+      "occurrence_count": 5,
+      "occurrences": [
+        {
+          "line_start": 287,
+          "path": "theoroms/Eigenrecursive_Sentience.md",
+          "section": "Bibliography"
+        },
+        {
+          "line_start": 287,
+          "path": "theoroms/metacognition&sentience/Eigenrecursive_Sentience.md",
+          "section": "Bibliography"
+        },
+        {
+          "line_start": 951,
+          "path": "theoroms/metacognition&sentience/Temporal_Merged_Sentience.md",
+          "section": "References"
+        },
+        {
+          "line_start": 287,
+          "path": "theoroms/v2/Eigenrecursive_Sentience.md",
+          "section": "Bibliography"
+        },
+        {
+          "line_start": 677,
+          "path": "theoroms/v2/Unified_Recursive_Sentient_Field_Theory.md",
+          "section": "References"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "Yao, Y., Velez, R., Tanaka, M. M., Tanaka, K., & Doya, K. (2021). \"A theory of plan meta-cognition.\" *Nature Communications*, 12(1), 1-12."
+      ],
+      "verification_note": "User verification report: title/authors could not be located in Nature Communications (2021) as cited; likely incorrect or misattributed. Exclude from paper bibliography until corrected.",
+      "verification_status": "unverified",
+      "year": 2021
+    },
+    {
+      "canonical": "Friston, K. (2010). \"The free-energy principle: a unified brain theory?\" *Nature Reviews Neuroscience*, 11(2), 127-138.",
+      "canonical_score": 15,
+      "key": "friston k 2010 the free energy principle a unified brain theory nature reviews neuroscience 11 2 127 138",
+      "occurrence_count": 4,
+      "occurrences": [
+        {
+          "line_start": 280,
+          "path": "theoroms/Eigenrecursive_Sentience.md",
+          "section": "Bibliography"
+        },
+        {
+          "line_start": 280,
+          "path": "theoroms/metacognition&sentience/Eigenrecursive_Sentience.md",
+          "section": "Bibliography"
+        },
+        {
+          "line_start": 280,
+          "path": "theoroms/v2/Eigenrecursive_Sentience.md",
+          "section": "Bibliography"
+        },
+        {
+          "line_start": 357,
+          "path": "theoroms/ethics&stability/recursive learning/RAL_Bridge.md",
+          "section": "References"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "Friston, K. (2010). \"The free-energy principle: a unified brain theory?\" *Nature Reviews Neuroscience*, 11(2), 127-138.",
+        "Friston, K. (2010). The free-energy principle: a unified brain theory? *Nature Reviews Neuroscience*, 11(2), 127-138."
+      ],
+      "verification_note": null,
+      "verification_status": "verified",
+      "year": 2010
+    },
+    {
+      "canonical": "Hofstadter, D. R. (2007). *I am a Strange Loop*. Basic Books.",
+      "canonical_score": 7,
+      "key": "hofstadter d r 2007 i am a strange loop basic books",
+      "occurrence_count": 4,
+      "occurrences": [
+        {
+          "line_start": 282,
+          "path": "theoroms/Eigenrecursive_Sentience.md",
+          "section": "Bibliography"
+        },
+        {
+          "line_start": 282,
+          "path": "theoroms/metacognition&sentience/Eigenrecursive_Sentience.md",
+          "section": "Bibliography"
+        },
+        {
+          "line_start": 282,
+          "path": "theoroms/v2/Eigenrecursive_Sentience.md",
+          "section": "Bibliography"
+        },
+        {
+          "line_start": 652,
+          "path": "theoroms/v2/Symbolic_Grounding_Theorom.md",
+          "section": "References"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "Hofstadter, D. R. (2007). *I Am a Strange Loop*. Basic Books.",
+        "Hofstadter, D. R. (2007). *I am a Strange Loop*. Basic Books."
+      ],
+      "verification_note": null,
+      "verification_status": "verified",
+      "year": 2007
+    },
+    {
+      "canonical": "Shannon, C. E. (1948). \"A mathematical theory of communication.\" *Bell System Technical Journal*, 27, 379-423; 27, 623-656.",
+      "canonical_score": 16,
+      "key": "shannon c e 1948 a mathematical theory of communication bell system technical journal 27 3 379 423",
+      "occurrence_count": 3,
+      "occurrences": [
+        {
+          "line_start": 941,
+          "path": "theoroms/metacognition&sentience/Temporal_Merged_Sentience.md",
+          "section": "References"
+        },
+        {
+          "line_start": 706,
+          "path": "theoroms/Unified_Recursive_Sentience_Theory.md",
+          "section": "References"
+        },
+        {
+          "line_start": 660,
+          "path": "theoroms/v2/Symbolic_Grounding_Theorom.md",
+          "section": "References"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "Shannon, C. E. (1948). \"A mathematical theory of communication.\" *Bell System Technical Journal*, 27(3), 379-423.",
+        "Shannon, C. E. (1948). A mathematical theory of communication. *Bell System Technical Journal*, 27(3), 379-423."
+      ],
+      "verification_note": "Clarification: the classic BSTJ paper appears in two parts (July/Oct); both page ranges cited.",
+      "verification_status": "verified",
+      "year": 1948
+    },
+    {
+      "canonical": "Tarski, A. (1955). \"A lattice-theoretical fixpoint theorem and its applications.\" *Pacific Journal of Mathematics*, 5(2), 285-309.",
+      "canonical_score": 16,
+      "key": "tarski a 1955 a lattice theoretical fixpoint theorem and its applications pacific journal of mathematics 5 2 285 309",
+      "occurrence_count": 3,
+      "occurrences": [
+        {
+          "line_start": 410,
+          "path": "theoroms/metacognition&sentience/Temporal_Eigenstate_Theorom.md",
+          "section": "References"
+        },
+        {
+          "line_start": 943,
+          "path": "theoroms/metacognition&sentience/Temporal_Merged_Sentience.md",
+          "section": "References"
+        },
+        {
+          "line_start": 671,
+          "path": "theoroms/v2/Unified_Recursive_Sentient_Field_Theory.md",
+          "section": "References"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "Tarski, A. (1955). \"A lattice-theoretical fixpoint theorem and its applications.\" *Pacific Journal of Mathematics*, 5(2), 285-309."
+      ],
+      "verification_note": null,
+      "verification_status": "verified",
+      "year": 1955
+    },
+    {
+      "canonical": "Wolpert, D. H., & Macready, W. G. (1997). \"No free lunch theorems for optimization.\" *IEEE Transactions on Evolutionary Computation*, 1(1), 67-82.",
+      "canonical_score": 16,
+      "key": "wolpert d h macready w g 1997 no free lunch theorems for optimization ieee transactions on evolutionary computation 1 1 67 82",
+      "occurrence_count": 3,
+      "occurrences": [
+        {
+          "line_start": 286,
+          "path": "theoroms/Eigenrecursive_Sentience.md",
+          "section": "Bibliography"
+        },
+        {
+          "line_start": 286,
+          "path": "theoroms/metacognition&sentience/Eigenrecursive_Sentience.md",
+          "section": "Bibliography"
+        },
+        {
+          "line_start": 286,
+          "path": "theoroms/v2/Eigenrecursive_Sentience.md",
+          "section": "Bibliography"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "Wolpert, D. H., & Macready, W. G. (1997). \"No free lunch theorems for optimization.\" *IEEE Transactions on Evolutionary Computation*, 1(1), 67-82."
+      ],
+      "verification_note": null,
+      "verification_status": "verified",
+      "year": 1997
+    },
+    {
+      "canonical": "Tononi, G., & Koch, C. (2015). \"Consciousness: here, there and everywhere?\" *Philosophical Transactions of the Royal Society B: Biological Sciences*, 370(1668), 20140167.",
+      "canonical_score": 16,
+      "key": "tononi g koch c 2015 consciousness here there and everywhere philosophical transactions of the royal society b biological sciences 370 1668 20140167",
+      "occurrence_count": 3,
+      "occurrences": [
+        {
+          "line_start": 284,
+          "path": "theoroms/Eigenrecursive_Sentience.md",
+          "section": "Bibliography"
+        },
+        {
+          "line_start": 284,
+          "path": "theoroms/metacognition&sentience/Eigenrecursive_Sentience.md",
+          "section": "Bibliography"
+        },
+        {
+          "line_start": 284,
+          "path": "theoroms/v2/Eigenrecursive_Sentience.md",
+          "section": "Bibliography"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "Tononi, G., & Koch, C. (2015). \"Consciousness: here, there and everywhere?\" *Philosophical Transactions of the Royal Society B: Biological Sciences*, 370(1668), 20140167."
+      ],
+      "verification_note": null,
+      "verification_status": "verified",
+      "year": 2015
+    },
+    {
+      "canonical": "Dehaene, S., Lau, H., & Kouider, S. (2017). \"What is consciousness, and could machines have it?\" *Science*, 358(6362), 486-492.",
+      "canonical_score": 16,
+      "key": "dehaene s lau h kouider s 2017 what is consciousness and could machines have it science 358 6362 486 492",
+      "occurrence_count": 3,
+      "occurrences": [
+        {
+          "line_start": 279,
+          "path": "theoroms/Eigenrecursive_Sentience.md",
+          "section": "Bibliography"
+        },
+        {
+          "line_start": 279,
+          "path": "theoroms/metacognition&sentience/Eigenrecursive_Sentience.md",
+          "section": "Bibliography"
+        },
+        {
+          "line_start": 279,
+          "path": "theoroms/v2/Eigenrecursive_Sentience.md",
+          "section": "Bibliography"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "Dehaene, S., Lau, H., & Kouider, S. (2017). \"What is consciousness, and could machines have it?\" *Science*, 358(6362), 486-492."
+      ],
+      "verification_note": null,
+      "verification_status": "verified",
+      "year": 2017
+    },
+    {
+      "canonical": "Brouwer, L. E. J. (1911). \"\u00dcber Abbildung von Mannigfaltigkeiten.\" *Mathematische Annalen*, 71, 97-115.",
+      "canonical_score": 15,
+      "key": "brouwer l e j 1911 ber abbildung von mannigfaltigkeiten mathematische annalen 71 1 97 115",
+      "occurrence_count": 3,
+      "occurrences": [
+        {
+          "line_start": 400,
+          "path": "theoroms/metacognition&sentience/Temporal_Eigenstate_Theorom.md",
+          "section": "References"
+        },
+        {
+          "line_start": 923,
+          "path": "theoroms/metacognition&sentience/Temporal_Merged_Sentience.md",
+          "section": "References"
+        },
+        {
+          "line_start": 661,
+          "path": "theoroms/v2/Unified_Recursive_Sentient_Field_Theory.md",
+          "section": "References"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "Brouwer, L. E. J. (1911). \"\u00dcber Abbildung von Mannigfaltigkeiten.\" *Mathematische Annalen*, 71(1), 97-115."
+      ],
+      "verification_note": "Formatting normalization: journal typically cited by volume/pages; issue number omitted.",
+      "verification_status": "verified",
+      "year": 1911
+    },
+    {
+      "canonical": "Von Neumann, J. (1955). *Mathematical foundations of quantum mechanics*. Princeton University Press.",
+      "canonical_score": 12,
+      "key": "von neumann j 1955 mathematical foundations of quantum mechanics princeton university press",
+      "occurrence_count": 3,
+      "occurrences": [
+        {
+          "line_start": 285,
+          "path": "theoroms/Eigenrecursive_Sentience.md",
+          "section": "Bibliography"
+        },
+        {
+          "line_start": 285,
+          "path": "theoroms/metacognition&sentience/Eigenrecursive_Sentience.md",
+          "section": "Bibliography"
+        },
+        {
+          "line_start": 285,
+          "path": "theoroms/v2/Eigenrecursive_Sentience.md",
+          "section": "Bibliography"
+        }
+      ],
+      "suspicious": false,
+      "urls": [],
+      "variants": [
+        "Von Neumann, J. (1955). *Mathematical foundations of quantum mechanics*. Princeton University Press."
+      ],
+      "verification_note": null,
+      "verification_status": "verified",
+      "year": 1955
+    }
+  ],
+  "shortlist_count": 12,
+  "suspicious_count": 0,
+  "unverified_only_count": 1,
+  "verification": {
+    "canonical_keyset_sha256": "f371c6f6bcd4552ae2e47deb214c925d5e91a1df415ddde946bc657f9dd818a0",
+    "config_generated_utc": "2025-12-18T00:00:00Z",
+    "config_scope_keyset_sha256": "f371c6f6bcd4552ae2e47deb214c925d5e91a1df415ddde946bc657f9dd818a0",
+    "counts": {
+      "needs_review": 0,
+      "unverified": 1,
+      "verified": 39
+    },
+    "enabled": true,
+    "scope_match": true,
+    "source": "User-provided verification report (2025-12-18) for Zenodo/arXiv preprint preparation; 39 verified, 1 unverified."
+  },
+  "verified_only_count": 39
+}

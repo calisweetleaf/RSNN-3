@@ -1,0 +1,314 @@
+{
+  "pngs": [
+    "/workspace/projects/05f88ba4-6369-4acb-9c1a-f3e868fbb4a0/forge/rsi/runtime/viz/out/2026-11-21_canon_seed0__dashboard.png",
+    "/workspace/projects/05f88ba4-6369-4acb-9c1a-f3e868fbb4a0/forge/rsi/runtime/viz/out/2026-11-21_native_seed0__dashboard.png",
+    "/workspace/projects/05f88ba4-6369-4acb-9c1a-f3e868fbb4a0/forge/rsi/runtime/viz/out/2026-11-21_native_seed0__native.png",
+    "/workspace/projects/05f88ba4-6369-4acb-9c1a-f3e868fbb4a0/forge/rsi/runtime/viz/out/2026-11-21_seed0__dashboard.png",
+    "/workspace/projects/05f88ba4-6369-4acb-9c1a-f3e868fbb4a0/forge/rsi/runtime/viz/out/2026-11-21_seed0_learner__dashboard.png",
+    "/workspace/projects/05f88ba4-6369-4acb-9c1a-f3e868fbb4a0/forge/rsi/runtime/viz/out/2026-11-21_selfmod__selfmod.png",
+    "/workspace/projects/05f88ba4-6369-4acb-9c1a-f3e868fbb4a0/forge/rsi/runtime/viz/out/2026-11-21_unified_seed0__dashboard.png",
+    "/workspace/projects/05f88ba4-6369-4acb-9c1a-f3e868fbb4a0/forge/rsi/runtime/viz/out/runs_compare.png",
+    "/workspace/projects/05f88ba4-6369-4acb-9c1a-f3e868fbb4a0/forge/rsi/runtime/viz/out/architecture.png"
+  ],
+  "missing": [
+    "2026-11-21_canon_seed0 native: only run-level .lqt (lqt_store/psi_weights.lqt, 30808 B); no per-checkpoint .lqt, so no edit-log-over-time view",
+    "2026-11-21_selfmod selfmod: final held-out eval not written yet (showing preregistered baseline replicates); lineage (no accepted commits)",
+    "2026-11-21_unified_seed0 native: only run-level .lqt (model.lqt, 71131332 B); no per-checkpoint .lqt, so no edit-log-over-time view"
+  ],
+  "architecture": {
+    "edges": {
+      "engine->bridge": [
+        "cognition/category_core.py:26 \u2192 cognition/lqt_bridge.py",
+        "cognition/cognitive_engine.py:34 \u2192 cognition/lqt_bridge.py"
+      ],
+      "engine->rta": [
+        "cognition/category_core.py:27 \u2192 original-py-code/recursive_tensor.py"
+      ],
+      "engine->triaxial": [
+        "cognition/cognitive_engine.py:33 \u2192 cognition/triaxial_backbone.py",
+        "cognition/prove_cognition.py:54 \u2192 cognition/triaxial_backbone.py",
+        "cognition/weight_evolution_engine.py:33 \u2192 cognition/phase_transformations.py",
+        "cognition/weight_evolution_engine.py:34 \u2192 cognition/reference_matrices.py"
+      ],
+      "engine->selfmod": [
+        "cognition/cognitive_engine.py:35 \u2192 mutable/reflection_policy.py"
+      ],
+      "engine->meta": [
+        "cognition/cognitive_engine.py:84 \u2192 cognition/meta_reflective_head.py"
+      ],
+      "engine->lqt": [
+        "cognition/cognitive_engine.py:68 \u2192 original-py-code/recursive_weights_core.py"
+      ],
+      "engine->iala": [
+        "cognition/cognitive_engine.py:78 \u2192 runtime/autodidactic_learning.py"
+      ],
+      "bridge->rta": [
+        "cognition/lqt_bridge.py:109 \u2192 python/rta_numpy.py",
+        "cognition/lqt_bridge.py:151 \u2192 original-py-code/recursive_tensor.py"
+      ],
+      "bridge->lqt": [
+        "cognition/lqt_bridge.py:152 \u2192 original-py-code/lqt_library.py"
+      ],
+      "triaxial->bridge": [
+        "cognition/triaxial_backbone.py:47 \u2192 cognition/lqt_bridge.py",
+        "cognition/triaxial_backbone.py:48 \u2192 cognition/lqt_bridge.py"
+      ],
+      "triaxial->ethics": [
+        "cognition/triaxial_backbone.py:53 \u2192 original-py-code/ethical_tensor.py"
+      ],
+      "triaxial->bayes": [
+        "cognition/triaxial_backbone.py:62 \u2192 runtime/bayesian_config_orchestrator.py"
+      ],
+      "triaxial->rta": [
+        "cognition/triaxial_backbone.py:58 \u2192 original-py-code/metacognitive_tensor.py"
+      ],
+      "iala->lqt": [
+        "iala/autodidactic_learning.py:148 \u2192 original-py-code/recursive_weights_core.py",
+        "canon/autodidactic_learning.py:148 \u2192 original-py-code/recursive_weights_core.py"
+      ],
+      "lqt->rta": [
+        "original-py-code/lqt_library.py:23 \u2192 original-py-code/recursive_tensor.py"
+      ],
+      "rosemary->breath": [
+        "ntp/arfs_aware_reciever.py:26 \u2192 canon/breath_phase.py",
+        "ntp/interface.py:324 \u2192 canon/breath_phase.py",
+        "sis/unified_monitor.py:36 \u2192 canon/breath_phase.py",
+        "integration/enhanced_gateway.py:28 \u2192 canon/breath_phase.py",
+        "integration/gateway.py:123 \u2192 canon/breath_phase.py"
+      ],
+      "rosemary->sentinel": [
+        "sect/__init__.py:23 \u2192 sect/ursmif_sentinel.py",
+        "sect/agent.py:48 \u2192 sect/ursmif_sentinel.py"
+      ],
+      "rosemary->ethics": [
+        "sect/__init__.py:38 \u2192 infrastructure/ethical_tensor.py",
+        "infrastructure/__init__.py:24 \u2192 infrastructure/ethical_tensor.py"
+      ],
+      "rosemary->canon": [
+        "sis/unified_monitor.py:37 \u2192 canon/biodigital_brain_node.py",
+        "integration/enhanced_gateway.py:29 \u2192 canon/biodigital_brain_node.py"
+      ],
+      "dream->canon": [
+        "canon/dream_stasis.py:28 \u2192 canon/knowledge_library.py",
+        "canon/dream_stasis.py:30 \u2192 canon/knowledge_library.py",
+        "canon/dream_stasis.py:951 \u2192 canon/knowledge_library.py",
+        "canon/dream_stasis.py:890 \u2192 canon/knowledge_library.py"
+      ],
+      "canon->rta": [
+        "canon/eigenrecursive_operations.py:45 \u2192 original-py-code/recursive_tensor.py"
+      ],
+      "canon->iala": [
+        "canon/emotion_matrix.py:135 \u2192 canon/autodidactic_learning.py"
+      ],
+      "canon->lqt": [
+        "canon/emotion_matrix.py:93 \u2192 original-py-code/recursive_weights_core.py"
+      ],
+      "breath->dream": [
+        "canon/harmonic_breath_field.py:1270 \u2192 canon/dream_simulation.py",
+        "infrastructure/harmonic_breath_field.py:1176 \u2192 canon/dream_simulation.py"
+      ],
+      "motivation->canon": [
+        "canon/motivation_system.py:36 \u2192 canon/fbs_tokenizer.py"
+      ],
+      "bayes->selfmod": [
+        "runtime/bayesian_config_orchestrator.py:31 \u2192 mutable/bayes_policy.py"
+      ],
+      "loop->engine": [
+        "runtime/loop.py:151 \u2192 cognition/cognitive_engine.py"
+      ],
+      "loop->triaxial": [
+        "runtime/loop.py:152 \u2192 cognition/triaxial_backbone.py",
+        "runtime/rosemary_full.py:86 \u2192 cognition/triaxial_backbone.py"
+      ],
+      "loop->rosemary": [
+        "runtime/loop.py:153 \u2192 sect/agent.py"
+      ],
+      "loop->sentinel": [
+        "runtime/loop.py:154 \u2192 sect/ursmif_sentinel.py"
+      ],
+      "loop->ethics": [
+        "runtime/loop.py:155 \u2192 infrastructure/ethical_tensor.py"
+      ],
+      "loop->iala": [
+        "runtime/loop.py:157 \u2192 runtime/autodidactic_learning.py"
+      ],
+      "loop->bayes": [
+        "runtime/loop.py:158 \u2192 runtime/bayesian_config_orchestrator.py"
+      ],
+      "loop->motivation": [
+        "runtime/loop.py:159 \u2192 runtime/motivation_system.py",
+        "runtime/rosemary_full.py:90 \u2192 canon/motivation_system.py"
+      ],
+      "motivation->selfmod": [
+        "runtime/motivation_system.py:24 \u2192 mutable/motivation_policy.py"
+      ],
+      "loop->breath": [
+        "runtime/rosemary_full.py:87 \u2192 canon/breath_phase.py"
+      ],
+      "loop->dream": [
+        "runtime/rosemary_full.py:88 \u2192 canon/dream_simulation.py"
+      ],
+      "loop->canon": [
+        "runtime/rosemary_full.py:89 \u2192 canon/fbs_tokenizer.py"
+      ],
+      "loop->rsl": [
+        "runtime/rosemary_full.py:91 \u2192 canon/rsl_memory_system.py"
+      ],
+      "selfmod->loop": [
+        "selfmod/evaluate.py:47 \u2192 runtime/loop.py",
+        "selfmod/harness.py:27 \u2192 runtime/loop.py"
+      ],
+      "loop->bridge": [
+        "runtime/train.py:108 \u2192 cognition/lqt_bridge.py",
+        "runtime/train.py:152 \u2192 cognition/lqt_bridge.py",
+        "runtime/train.py:180 \u2192 cognition/lqt_bridge.py"
+      ]
+    },
+    "files": {
+      "lqt": [
+        "bindings/roundtrip_demo.py",
+        "lqt/original-py-code/lqt_library.py",
+        "lqt/original-py-code/recursive_weights_core.py",
+        "lqt/original-py-code/trixial_tensor_recursive_weights_transformer_backbone.py",
+        "lqt_py/lqt_native.cpython-312-aarch64-linux-gnu.so"
+      ],
+      "engine": [
+        "cognition/category_core.py",
+        "cognition/cognitive_engine.py",
+        "cognition/error_preservation.py",
+        "cognition/modality_system.py",
+        "cognition/prove_cognition.py",
+        "cognition/tool_modality.py",
+        "cognition/weight_evolution_engine.py"
+      ],
+      "triaxial": [
+        "cognition/corrective_stabilizers.py",
+        "cognition/phase_transformations.py",
+        "cognition/reference_matrices.py",
+        "cognition/triaxial_backbone.py"
+      ],
+      "bridge": [
+        "cognition/lqt_bridge.py"
+      ],
+      "meta": [
+        "cognition/meta_reflective_head.py"
+      ],
+      "selfmod": [
+        "cognition/mutable/__init__.py",
+        "cognition/mutable/bayes_policy.py",
+        "cognition/mutable/motivation_policy.py",
+        "cognition/mutable/plasticity_policy.py",
+        "cognition/mutable/proposer_policy.py",
+        "cognition/mutable/reflection_policy.py",
+        "runtime/selfmod/__init__.py",
+        "runtime/selfmod/ast_edit.py",
+        "runtime/selfmod/config.py",
+        "runtime/selfmod/evaluate.py",
+        "runtime/selfmod/gate.py",
+        "runtime/selfmod/harness.py",
+        "runtime/selfmod/objective.py",
+        "runtime/selfmod/proposer.py",
+        "runtime/selfmod/rldis.py",
+        "runtime/selfmod/run.py"
+      ],
+      "sentinel": [
+        "cognition/ursmif_lobe.py",
+        "rosemary/biocognitive_core/components/sect/ursmif_sentinel.py"
+      ],
+      "iala": [
+        "lqt/iala/autodidactic_learning.py",
+        "rosemary/canon/autodidactic_learning.py",
+        "runtime/autodidactic_learning.py"
+      ],
+      "ethics": [
+        "lqt/original-py-code/ethical_tensor.py",
+        "rosemary/infrastructure/ethical_tensor.py"
+      ],
+      "rta": [
+        "lqt/original-py-code/metacognitive_tensor.py",
+        "lqt/original-py-code/recursive_tensor.py",
+        "lqt/recursive-tensor-cpp/python/rta_numpy.py"
+      ],
+      "rosemary": [
+        "rosemary/biocognitive_core/__init__.py",
+        "rosemary/biocognitive_core/components/__init__.py",
+        "rosemary/biocognitive_core/components/ntp/__init__.py",
+        "rosemary/biocognitive_core/components/ntp/arfs_aware_reciever.py",
+        "rosemary/biocognitive_core/components/ntp/consent.py",
+        "rosemary/biocognitive_core/components/ntp/encryption.py",
+        "rosemary/biocognitive_core/components/ntp/interface.py",
+        "rosemary/biocognitive_core/components/ntp/receiver.py",
+        "rosemary/biocognitive_core/components/sect/__init__.py",
+        "rosemary/biocognitive_core/components/sect/agent.py",
+        "rosemary/biocognitive_core/components/sect/therapy.py",
+        "rosemary/biocognitive_core/components/sis/__init__.py",
+        "rosemary/biocognitive_core/components/sis/evolution.py",
+        "rosemary/biocognitive_core/components/sis/monitoring.py",
+        "rosemary/biocognitive_core/components/sis/network.py",
+        "rosemary/biocognitive_core/components/sis/unified_monitor.py",
+        "rosemary/biocognitive_core/config.py",
+        "rosemary/biocognitive_core/exceptions.py",
+        "rosemary/biocognitive_core/metrics.py",
+        "rosemary/infrastructure/__init__.py",
+        "rosemary/infrastructure/observability.py",
+        "rosemary/infrastructure/scalability.py",
+        "rosemary/infrastructure/security.py",
+        "rosemary/integration/__init__.py",
+        "rosemary/integration/coordinator.py",
+        "rosemary/integration/enhanced_gateway.py",
+        "rosemary/integration/gateway.py",
+        "rosemary/integration/translator.py"
+      ],
+      "canon": [
+        "rosemary/canon/SentientConvergentField.py",
+        "rosemary/canon/__init__.py",
+        "rosemary/canon/biodigital_brain_node.py",
+        "rosemary/canon/body_synch_node.py",
+        "rosemary/canon/eigenrecursion_algorithm.py",
+        "rosemary/canon/eigenrecursion_harness.py",
+        "rosemary/canon/eigenrecursive_operations.py",
+        "rosemary/canon/emotion_matrix.py",
+        "rosemary/canon/fbs_tokenizer.py",
+        "rosemary/canon/fixed_point_recursive_learning_system.py",
+        "rosemary/canon/knowledge_library.py",
+        "rosemary/canon/launch_core.py",
+        "rosemary/canon/learning.py",
+        "rosemary/canon/oroborus.py",
+        "rosemary/canon/pineal_gland.py",
+        "rosemary/canon/recursive_symbolic_identity_architechture.py",
+        "rosemary/canon/soverignty_core.py",
+        "rosemary/canon/temporal_eigenloom.py",
+        "rosemary/canon/temporal_eigenstate.py",
+        "rosemary/canon/temporal_phase.py",
+        "rosemary/canon/timeline_engine.py"
+      ],
+      "breath": [
+        "rosemary/canon/breath_phase.py",
+        "rosemary/canon/harmonic_breath_field.py",
+        "rosemary/infrastructure/harmonic_breath_field.py"
+      ],
+      "dream": [
+        "rosemary/canon/dream_simulation.py",
+        "rosemary/canon/dream_stasis.py",
+        "rosemary/canon/dream_stasis_integration.py"
+      ],
+      "motivation": [
+        "rosemary/canon/motivation_system.py",
+        "runtime/motivation_system.py"
+      ],
+      "rsl": [
+        "rosemary/canon/rsl_memory_system.py",
+        "rosemary/canon/rsl_node.py"
+      ],
+      "bayes": [
+        "runtime/bayesian_config_orchestrator.py"
+      ],
+      "loop": [
+        "runtime/loop.py",
+        "runtime/rosemary_full.py",
+        "runtime/train.py"
+      ]
+    },
+    "absent": []
+  }
+}

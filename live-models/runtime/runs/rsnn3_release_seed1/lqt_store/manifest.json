@@ -1,0 +1,32 @@
+{
+  "format": "lqt-unified",
+  "file": "/workspace/scratch/246d883952fc/work/rsi/runtime/runs/rsnn3_release_seed1/model.lqt",
+  "bytes": 27408,
+  "sha256": "01e3056905860e5e0221a6748a7d584607edbf06d05d6be6156884c3dd0718c0",
+  "edit_log_entries": 0,
+  "edit_log_tail_hash": 0,
+  "verify_edit_log": true,
+  "psi": {
+    "W_R": {
+      "shape": [
+        16,
+        16
+      ],
+      "scale": 0.7268214225769043
+    },
+    "W_E": {
+      "shape": [
+        16,
+        5
+      ],
+      "scale": 1.0902401208877563
+    },
+    "W_M": {
+      "shape": [
+        16,
+        8
+      ],
+      "scale": 1.0269920825958252
+    }
+  }
+}
